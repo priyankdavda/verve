@@ -432,7 +432,8 @@
         
                 $portfolio.isotope({
                     itemSelector: '.grid-item',
-                    filter: '*',
+                    // filter: '*',
+                    filter: '.ESD',
                     resizesContainer: true,
                     layoutMode: 'masonry',
                     transitionDuration: '0.8s'

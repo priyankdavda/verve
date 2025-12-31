@@ -144,12 +144,12 @@
 						<!-- <h1> with IT Excellence</h1> -->
 						<p>AI-driven workforce & digital consulting partner delivering scalable outcomes.</p>
 						<div class="solutek-btn">
-							<a href="about-us.html" class="btn-2">Book Strategy Call</a>
+							<a href="about-us.php" class="btn-2">Book Strategy Call</a>
 						</div>
 						<div class="hero-btn-3">
 							<div class="hero-btn-profile">
 								<!-- <img src="assets/images/home-3/hero-pro.png" alt="img"> -->
-								<a href="about-us.html">Start <span> GCC Assessment</span></a>
+								<a href="about-us.php">Start <span> GCC Assessment</span></a>
 							</div>
 						</div>
 						<div class="hero-left-shape">
@@ -175,18 +175,18 @@
 			<div class="row hero align-items-center">
 				<div class="col-lg-5 col-md-7">
 					<div class="hero-contant">
-						<h6>BEST IT SOLUTION PROVIDER</h6>
-						<h1>Elevate Your</h1>
-						<span>Business</span>
-						<h1> with IT Excellence</h1>
-						<p>We have been operating for over a decade prvid have beens</p>
+						<!-- <h6>Build Your Global</h6> -->
+						<h1>Build Your Global</h1>
+						<span>Workforce Ecosystem</span>
+						<!-- <h1>with IT Excellence</h1> -->
+						<p>AI-driven workforce & digital consulting partner delivering scalable outcomes.</p>
 						<div class="solutek-btn">
-							<a href="about-us.html" class="btn-2">Get Started</a>
+							<a href="about-us.html" class="btn-2">Book Strategy Cal</a>
 						</div>
 						<div class="hero-btn-3">
 							<div class="hero-btn-profile">
 								<img src="assets/images/home-3/hero-pro.png" alt="img">
-								<a href="about-us.html"><span>MEET</span>Our Experts</a>
+								<a href="about-us.html"><span>Start</span> GCC Assessment</a>
 							</div>
 						</div>
 						<div class="hero-left-shape">
@@ -226,7 +226,9 @@
 			<div class="col-lg-12">
 				<div class="section-title text-center">
 					<h6 class="section-sub-title">our services</h6>
-					<h1 class="section-main-title2">exclusive IT Services</h1>
+					<h1 class="section-main-title2">Integrated Workforce Solutions</h1>
+						<p class="section-title-descr2">Comprehensive capabilities designed to address your most critical talent and technology challenges.</p>
+
 				</div>
 			</div>
 		</div>
@@ -307,9 +309,6 @@
 <!--==================================================-->
 
 
-
-
-
 <!--==================================================-->
 <!-- start solutek about section -->
 <!--==================================================-->
@@ -381,39 +380,52 @@
 <div class="counter-area">
 	<div class="container">
 		<div class="row counter-item">
+			
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="counter-single-box">
 					<div class="counter-content">
-						<h4 class="counter">120</h4>
-						<span>k</span>
-						<p>Satisfied Clients</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-6 col-sm-6">
-				<div class="counter-single-box">
-					<div class="counter-content">
-						<h4 class="counter">700</h4>
-						<span>k</span>
-						<p>Project Completed</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-6 col-sm-6">
-				<div class="counter-single-box">
-					<div class="counter-content">
-						<h4 class="counter">100</h4>
+						<h4 class="counter">42</h4>
 						<span>%</span>
-						<p>Result Guaranteed</p>
+						<p>Faster Hiring</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-6 col-sm-6">
+				<div class="counter-single-box">
+					<div class="counter-content">
+						<h4 class="counter">90</h4>
+						<span>-Day</span>
+						<p>GCC Build</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="counter-single-box">
 					<div class="counter-content">
-						<h4 class="counter">280</h4>
+						<h4 class="counter">250</h4>
+						<!-- <h4 class="counter">+</h4> -->
 						<span>+</span>
-						<p>EXPERT MEMBERS</p>
+						<p>Tech Skills</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-6 col-sm-6">
+				<div class="counter-single-box">
+					<div class="counter-content">
+						<h4 class="counter">30</h4>
+						<span>-</span>
+						<h4 class="counter"> 50</h4>
+						<p>Cost Savings</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-6 col-sm-6">
+				<div class="counter-single-box">
+					<div class="counter-content">
+						<h4 class="counter">24</h4>
+						<span>×</span>
+						<h4 class="counter"> 7</h4>
+						<p>Global Support</p>
 					</div>
 				</div>
 			</div>
@@ -429,8 +441,322 @@
 <!--==================================================-->
 
 
+<!--==================================================-->
+<!-- Start solutek about Area -->
+<!--==================================================-->
+
+	<div class="feature-area2">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="section-title text-center">
+						<h6 class="section-sub-title">The Verve Advantage</h6>
+						<h1 class="section-main-title2">Why Enterprises Choose Us</h1>
+						<p class="section-title-descr2">Bridging the gap between strategy and execution with premium workforce solutions.</p>
+
+					</div>
+				</div>
+			</div>
+			<div class="row about align-items-center">
+				<div class="feature-box">
+					<div class="feature-sinble-single-box">
+						<div class="feature-icon">
+							<img src="assets/images/feature1.png" alt="feature1">
+						</div>
+						<div class="feature-content">
+							<h3 class="feature-title">AI-Powered Talent Intelligence</h3>
+							<p class="feature-text">Data-driven matching ensuring precise cultural and technical fit for every role.</p>
+						</div>
+					</div>
+					<div class="feature-sinble-single-box">
+						<div class="feature-icon">
+							<img src="assets/images/feature2.png" alt="feature1">
+						</div>
+						<div class="feature-content">
+							<h3 class="feature-title">Global Delivery Model</h3>
+							<p class="feature-text">Seamless execution across USA, UK, Europe & India with unified governance.</p>
+						</div>
+					</div>
+					<div class="feature-sinble-single-box">
+						<div class="feature-icon">
+							<img src="assets/images/feature3.png" alt="feature1">
+						</div>
+						<div class="feature-content">
+							<h3 class="feature-title">GCC/BOT Specialists</h3>
+							<p class="feature-text">Proven framework for establishing captive centers from legal entity to operations.</p>
+						</div>
+					</div>
+					<div class="feature-sinble-single-box">
+						<div class="feature-icon">
+							<img src="assets/images/feature4.png" alt="feature1">
+						</div>
+						<div class="feature-content">
+							<h3 class="feature-title">Deep Tech Expertise</h3>
+							<p class="feature-text">Subject matter experts in Cloud, AI/ML, DevOps, and Cybersecurity.</p>
+						</div>
+					</div>
+					<div class="feature-sinble-single-box">
+						<div class="feature-icon">
+							<img src="assets/images/feature5.png" alt="feature1">
+						</div>
+						<div class="feature-content">
+							<h3 class="feature-title">SLA-Driven Governance</h3>
+							<p class="feature-text">Committed outcomes with transparent reporting and accountability.</p>
+						</div>
+					</div>
+					<div class="feature-sinble-single-box">
+						<div class="feature-icon">
+							<img src="assets/images/feature5.png" alt="feature1">
+						</div>
+						<div class="feature-content">
+							<h3 class="feature-title">Ethical Consulting</h3>
+							<p class="feature-text">Transparent practices ensuring long-term trust and sustainable partnerships.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+	</div>
+
+<!--==================================================-->
+<!-- end solutek about Area -->
+<!--==================================================-->
+
+<!--==================================================-->
+	<!-- Start solutek our service section  -->
+<!--==================================================-->
+<div class="our-service-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="section-title text-center">
+					<h6 class="section-sub-title">our services</h6>
+					<h1 class="section-main-title2">Our Value Proposition</h1>
+						<p class="section-title-descr2">We empower enterprises to thrive in the digital age by delivering strategic value across four key dimensions.</p>
+
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-3 col-md-6">
+				<div class="service-box">
+					<div class="single-service-box">
+						<div class="service-icon">
+							<img src="assets/images/home-3/ser-icon.png" alt="icon">
+						</div>
+						<div class="service-box-content">
+							<h4 class="service-title2"><a href="service-details.html">Global Talent Access</a></h4>
+							<p class="service-desc">Unlock top-tier talent from a worldwide network, ensuring the perfect skill and cultural fit for your teams.</p>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6">
+				<div class="service-box">
+					<div class="single-service-box">
+						<div class="service-icon">
+							<img src="assets/images/home-3/ser-icon2.png" alt="icon">
+						</div>
+						<div class="service-box-content">
+							<h4 class="service-title2"><a href="service-details.html">Scalable Growth</a></h4>
+							<p class="service-desc">Flexible and agile workforce solutions that scale with your business needs, from individual experts to full teams.</p>
+						</div>
+						
+					</div>
+					
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6">
+				<div class="service-box">
+					<div class="single-service-box">
+						<div class="service-icon">
+							<img src="assets/images/home-3/ser-icon3.png" alt="icon">
+						</div>
+						<div class="service-box-content">
+							<h4 class="service-title2"><a href="service-details.html">Operational Excellence</a></h4>
+							<p class="service-desc">Mitigate risks with our robust compliance, governance, and quality assurance frameworks.</p>
+						</div>
+						
+					</div>
+					
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6">
+				<div class="service-box">
+					<div class="single-service-box">
+						<div class="service-icon">
+							<img src="assets/images/home-3/ser-icon2.png" alt="icon">
+						</div>
+						<div class="service-box-content">
+							<h4 class="service-title2"><a href="service-details.html">Accelerated Impact</a></h4>
+							<p class="service-desc">Rapidly deploy talent and technology solutions to achieve your business objectives faster.</p>
+						</div>
+						
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	
+<!--==================================================-->
+<!-- End solutek our service section  -->
+<!--==================================================-->
 
 
+<!--==================================================-->
+<!-- start solutek-pricing Area -->
+<!--==================================================-->
+
+
+<div class="pricing-area">
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-lg-7">
+				<div class="section-title text-left">
+					<h5 class="section-sub-title">Start Business</h5>
+					<h1 class="section-main-title">Industries We Serve</h1>
+				</div>
+			</div>
+			<div class="col-lg-5">
+				<div class="section-title text-left">
+					<p class="section-descr">Specialized solutions tailored to vertical-specific challenges.</p>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="pricing-single-box">
+					<div class="pricing-head2">
+						<!-- <h1 class="priching-doller">BFSI</h1> -->
+						<h3 class="priching-title">BFSI</h3>
+					</div>
+					<div class="pricing-body">
+						<ul class="pricing-list">
+							<li><i class="bi bi-check-circle"></i> Risk Management</li>
+							<li><i class="bi bi-check-circle"></i> Digital Banking</li>
+							<li><i class="bi bi-check-circle"></i> Fraud Detection</li>
+						</ul>
+						
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="pricing-single-box">
+					<div class="pricing-head2">
+						<!-- <h1 class="priching-doller">Healthcare</h1> -->
+						<h3 class="priching-title">Healthcare</h3>
+					</div>
+					<div class="pricing-body">
+						<ul class="pricing-list">
+							<li><i class="bi bi-check-circle"></i> Telemedicine</li>
+							<li><i class="bi bi-check-circle"></i> EHR Integration</li>
+							<li><i class="bi bi-check-circle"></i> Patient Analytics</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="pricing-single-box">
+					<div class="pricing-head2">
+						<!-- <h1 class="priching-doller">Life Sciences</h1> -->
+						<h3 class="priching-title">Life Sciences</h3>
+					</div>
+					<div class="pricing-body">
+						<ul class="pricing-list">
+							<li><i class="bi bi-check-circle"></i> Clinical Trials</li>
+							<li><i class="bi bi-check-circle"></i> R&D Data</li>
+							<li><i class="bi bi-check-circle"></i> Supply Chain</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="pricing-single-box">
+					<div class="pricing-head2">
+						<!-- <h1 class="priching-doller">Retail & CPG</h1> -->
+						<h3 class="priching-title">Retail & CPG</h3>
+					</div>
+					<div class="pricing-body">
+						<ul class="pricing-list">
+							<li><i class="bi bi-check-circle"></i> E-commerce</li>
+							<li><i class="bi bi-check-circle"></i> Inventory AI</li>
+							<li><i class="bi bi-check-circle"></i> CX Personalization</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="pricing-single-box">
+					<div class="pricing-head2">
+						<!-- <h1 class="priching-doller">Manufacturing</h1> -->
+						<h3 class="priching-title">Manufacturing</h3>
+					</div>
+					<div class="pricing-body">
+						<ul class="pricing-list">
+							<li><i class="bi bi-check-circle"></i> IoT/Industry 4.0</li>
+							<li><i class="bi bi-check-circle"></i> Smart Factory</li>
+							<li><i class="bi bi-check-circle"></i> Predictive Maintenance</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="pricing-single-box">
+					<div class="pricing-head2">
+						<!-- <h1 class="priching-doller">Hi-Tech</h1> -->
+						<h3 class="priching-title">Hi-Tech</h3>
+					</div>
+					<div class="pricing-body">
+						<ul class="pricing-list">
+							<li><i class="bi bi-check-circle"></i> SaaS Engineering</li>
+							<li><i class="bi bi-check-circle"></i> Cloud Native</li>
+							<li><i class="bi bi-check-circle"></i> Product Engineering</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="pricing-single-box">
+					<div class="pricing-head2">
+						<!-- <h1 class="priching-doller">Communications</h1> -->
+						<h3 class="priching-title">Communications</h3>
+					</div>
+					<div class="pricing-body">
+						<ul class="pricing-list">
+							<li><i class="bi bi-check-circle"></i> 5G Solutions</li>
+							<li><i class="bi bi-check-circle"></i> Network Ops</li>
+							<li><i class="bi bi-check-circle"></i> OSS/BSS</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="pricing-single-box">
+					<div class="pricing-head2">
+						<!-- <h1 class="priching-doller">Energy & Utilities</h1> -->
+						<h3 class="priching-title">Energy & Utilities</h3>
+					</div>
+					<div class="pricing-body">
+						<ul class="pricing-list">
+							<li><i class="bi bi-check-circle"></i> Smart Grid</li>
+							<li><i class="bi bi-check-circle"></i> Renewable Tech</li>
+							<li><i class="bi bi-check-circle"></i> Field Service</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<!--==================================================-->
+<!-- end solutek-pricing Area -->
+<!--==================================================-->
 
 <!--==================================================-->
 <!-- start solutek case studies area -->
@@ -451,11 +777,11 @@
 					<div class="col-lg-6 col-md-6">
 						<div class="single-case-studies-box">
 							<div class="case-studies-content">
-								<h4><a href="project-details.html">Travel & Tour Mobile Apps Design</a></h4>
-								<h5>Mobile App Design</h5>
+								<h4><a href="case-studies.php">Scaling Engineering Teams for a Unicorn</a></h4>
+								<h5>40% Faster Hiring</h5>
 							</div>
 							<div class="case-studies-btn">
-								<a href="project-details.html">view more details</a>
+								<a href="case-studies.php">view more details</a>
 							</div>
 						</div>
 					</div>
@@ -471,8 +797,8 @@
 					<div class="case-studies-thumb">
 						<img src="assets/images/home-3/case-studies2.png" alt="thumb">
 						<div class="case-studie-content">
-							<h3><a href="project-details.html">Professional Website Design</a></h3>
-							<h6>Mobile App Design</h6>
+							<h3><a href="case-studies.php">Digital Transformation & Cloud Migration</a></h3>
+							<h6>30% Cost Savings</h6>
 						</div>
 						<div class="case-studies-icon">
 							<i class="bi bi-arrow-right"></i>
@@ -485,8 +811,8 @@
 					<div class="case-studies-thumb">
 						<img src="assets/images/home-3/case-studies3.png" alt="thumb">
 						<div class="case-studie-content">
-							<h3><a href="project-details.html">Professional Website Design</a></h3>
-							<h6>Mobile App Design</h6>
+							<h3><a href="case-studies.php">Establishing a Dedicated ODC</a></h3>
+							<h6>90-Day Setup</h6>
 						</div>
 						<div class="case-studies-icon">
 							<i class="bi bi-arrow-right"></i>
@@ -503,13 +829,360 @@
 <!--==================================================-->
 
 
+<!--==================================================-->
+<!-- start solutek service Area -->
+<!--==================================================-->
+
+<div class="sservice-area">
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-lg-12">
+				<div class="section-title text-center">
+					<h5 class="section-sub-title">SOLUTEK COMPANY</h5>
+					<h1 class="section-main-title">Specialized  <span>Workforce </span> Solutions </h1>
+					<p class="section-title-descr2">A structured suite of services designed for every stage of your talent journey.</p>
+
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="service-single-box">
+					<div class="service-icon">
+						<img src="assets/images/service1.png" alt="service1">
+					</div>
+					<div class="service-content">
+						<h3 class="service-title">Talent Alignment</h3>
+						<p class="service-text">Hiring is not about collecting profiles — it is about understanding the story behind every opportunity. We blend technology, market intelligence, and deep human insight to help organizations find talent that stays, grows, and contributes.</p>
+						<div class="service-btn">
+							<a href="service.html"><i class="fas fa-plus"></i> READ MORE</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="service-single-box">
+					<div class="service-icon">
+						<img src="assets/images/service2.png" alt="service1">
+					</div>
+					<div class="service-content">
+						<h3 class="service-title">Adaptive Workforce</h3>
+						<p class="service-text">Modern organizations need workforce agility — the ability to scale up or down without losing momentum. We provide skilled professionals exactly when and where you need them.</p>
+						<div class="service-btn">
+							<a href="service.html"><i class="fas fa-plus"></i> READ MORE</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="service-single-box">
+					<div class="service-icon">
+						<img src="assets/images/service3.png" alt="service1">
+					</div>
+					<div class="service-content">
+						<h3 class="service-title">Hiring Systems</h3>
+						<p class="service-text">Most companies don't struggle with talent — they struggle with process. We strengthen your hiring foundation from the inside.</p>
+						<div class="service-btn">
+							<a href="service.html"><i class="fas fa-plus"></i> READ MORE</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="service-single-box">
+					<div class="service-icon">
+						<img src="assets/images/service4.png" alt="service1">
+					</div>
+					<div class="service-content">
+						<h3 class="service-title">Client Success</h3>
+						<p class="service-text">Companies lose clients not due to performance but due to misalignment and unmanaged expectations. We bring structure, empathy, and intelligence to your client interactions.</p>
+						<div class="service-btn">
+							<a href="service.html"><i class="fas fa-plus"></i> READ MORE</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="service-single-box">
+					<div class="service-icon">
+						<img src="assets/images/service4.png" alt="service1">
+					</div>
+					<div class="service-content">
+						<h3 class="service-title">Lifecycle Ops</h3>
+						<p class="service-text">Employee experiences matter — whether they are joining or leaving. We ensure that every transition is smooth, compliant, and respectful.</p>
+						<div class="service-btn">
+							<a href="service.html"><i class="fas fa-plus"></i> READ MORE</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="service-single-box">
+					<div class="service-icon">
+						<img src="assets/images/service4.png" alt="service1">
+					</div>
+					<div class="service-content">
+						<h3 class="service-title">Global Expansion</h3>
+						<p class="service-text">International businesses trust India for talent — but scaling globally demands structure, cultural understanding, and reliable partnership.</p>
+						<div class="service-btn">
+							<a href="service.html"><i class="fas fa-plus"></i> READ MORE</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="service-shape bounce-animate3">
+			<img src="assets/images/service5.png" alt="service5">
+		</div>
+		<div class="service-shape2">
+			<img src="assets/images/service7.png" alt="service5">
+		</div>
+		<div class="service-shape3 bounce-animate4">
+			<img src="assets/images/service8.png" alt="service5">
+		</div>
+	</div>
+</div>
+
+<!--==================================================-->
+<!-- end solutek service Area -->
+<!--==================================================-->
+
+
+
+
+
+
+
+
+<!--==================================================-->
+<!-- start project-area styl-three -->
+<!--==================================================-->
+
+<div class="project-area style-three">
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-lg-7">
+				<div class="section-title text-left">
+					<h5 class="section-sub-title">OUR PROJECT NOW</h5>
+					<h1 class="section-main-title">The Essence of Our Easy</h1>
+					<h1 class="section-main-title">Working Process</h1>
+				</div>
+			</div>
+			<div class="col-lg-5">
+				<div class="section-title text-left">
+					<p class="section-des">paradigms monotonectally extend open-source creative design
+						mvia competitive methods of empowerment dri it solutions for
+						revolutionize stand- business clean.
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="row project-bs">
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="project-single-box box-1">
+					<div class="project-icon">
+						<img src="assets/images/home-two/project-icon.png" alt="icon">
+					</div>
+					<div class="projects-content">
+						<h4 class="project-title"><a href="project-details.html">Discovery</a></h4>
+						<p class="project-des">Paradigms open-source in
+							working process.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="project-single-box box-2">
+					<div class="project-icon">
+						<img src="assets/images/home-two/project-icon2.png" alt="icon">
+					</div>
+					<div class="projects-content">
+						<h4 class="project-title"><a href="project-details.html">Strategy</a></h4>
+						<p class="project-des">Paradigms open-source in
+							working process.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="project-single-box box-3">
+					<div class="project-icon">
+						<img src="assets/images/home-two/project-icon3.png" alt="icon">
+					</div>
+					<div class="projects-content">
+						<h4 class="project-title"><a href="project-details.html">Strategy</a></h4>
+						<p class="project-des">Paradigms open-source in
+							working process.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="project-single-box down box-4">
+					<div class="project-icon">
+						<img src="assets/images/home-two/project-icon4.png" alt="icon">
+					</div>
+					<div class="projects-content">
+						<h4 class="project-title"><a href="project-details.html">Optimization</a></h4>
+						<p class="project-des">Paradigms open-source in
+							working process.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="project-bg-shape1 moveLeftBounce">
+		<img src="assets/images/home-two/project-rs.png" alt="shpae">
+	</div>
+	<div class="project-bg-shape2 bounce-animate3">
+		<img src="assets/images/home-two/project-ws.png" alt="shpae">
+	</div>
+</div>
+
+
+
+<!--==================================================-->
+<!-- start solutek service Area style-two-->
+<!--==================================================-->
+
+<div class="sservice-area style-two">
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-lg-12">
+				<div class="section-title text-center">
+					<!-- <h5 class="section-sub-title">SOLUTEK COMPANY</h5> -->
+					<h1 class="section-main-title">Proof & Outcomes</h1>
+					<p class="section-title-descr2">Measurable impact delivered to global enterprises across industries and geographies.</p>
+
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="single-service-box">
+					
+					<div class="service-icon2">
+						<img src="assets/images/inner/service-icon.png" alt="icon">
+					</div>
+					<div class="service-content2">
+						<h2 class="service-subtitle">40%</h2>
+
+						<h3 class="service-title">
+							Faster Time-to-Market
+						</h3>
+						<p class="service-text">Average reduction in product development cycles</p>
+						
+						<div class="services-shape2 bounce-animate-3">
+							<img src="assets/images/inner/serice-shape.png" alt="shape">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="single-service-box">
+					<div class="service-icon2">
+						<img src="assets/images/inner/service-icon.png" alt="icon">
+					</div>
+					<div class="service-content2">
+						<h2 class="service-subtitle">60%</h2>
+						<h3 class="service-title">Reduced Hiring Time</h3>
+						<p class="service-text">From requisition to onboarding completion</p>
+						
+						<div class="services-shape2 bounce-animate-3">
+							<img src="assets/images/inner/serice-shape.png" alt="shape">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="single-service-box">
+					<div class="service-icon2">
+						<img src="assets/images/inner/service-icon.png" alt="icon">
+					</div>
+					<div class="service-content2">
+						<h2 class="service-subtitle">35%</h2>
+
+						<h3 class="service-title">Cost Optimization</h3>
+						<p class="service-text">Average savings on total workforce costs</p>
+						
+						<div class="services-shape2 bounce-animate-3">
+							<img src="assets/images/inner/serice-shape.png" alt="shape">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="single-service-box">
+					<div class="service-icon2">
+						<img src="assets/images/inner/service-icon.png" alt="icon">
+					</div>
+					<div class="service-content2">
+						<h2 class="service-subtitle">98%</h2>
+
+						<h3 class="service-title">Client Retention</h3>
+						<p class="service-text">Long-term partnership success rate</p>
+						
+						<div class="services-shape2 bounce-animate-3">
+							<img src="assets/images/inner/serice-shape.png" alt="shape">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="single-service-box">
+					<div class="service-icon2">
+						<img src="assets/images/inner/service-icon.png" alt="icon">
+					</div>
+					<div class="service-content2">
+						<h2 class="service-subtitle">10K+</h2>
+
+						<h3 class="service-title">Professionals Deployed</h3>
+						<p class="service-text">Across global enterprise clients</p>
+						
+						<div class="services-shape2 bounce-animate-3">
+							<img src="assets/images/inner/serice-shape.png" alt="shape">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="single-service-box">
+					<div class="service-icon2">
+						<img src="assets/images/inner/service-icon.png" alt="icon">
+					</div>
+					<div class="service-content2">
+						<h2 class="service-subtitle">95%</h2>
+
+						<h3 class="service-title">First-Year Retention</h3>
+						<p class="service-text">For placed permanent candidates</p>
+						
+						<div class="services-shape2 bounce-animate-3">
+							<img src="assets/images/inner/serice-shape.png" alt="shape">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="service-shape bounce-animate3">
+			<img src="assets/images/service5.png" alt="service5">
+		</div>
+		<div class="service-shape2">
+			<img src="assets/images/service7.png" alt="service5">
+		</div>
+		<div class="service-shape3 bounce-animate4">
+			<img src="assets/images/service8.png" alt="service5">
+		</div>
+	</div>
+</div>
+
+<!--==================================================-->
+<!-- end solutek service Area style-two-->
+<!--==================================================-->
+
 
 
 <!--==================================================-->
 <!-- Start solutek testimonial Area style-four-->
 <!--==================================================-->
 
-<div class="testimonial-area style-four">
+<!-- <div class="testimonial-area style-four">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-5">
@@ -636,7 +1309,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 <!--==================================================-->
 <!-- end solutek testimonial Area style-four-->
@@ -648,7 +1321,7 @@
 <!--==================================================-->
 <!--start solutek working proces area -->
 <!--==================================================-->
-<div class="working-proces-area">
+<!-- <div class="working-proces-area">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -710,7 +1383,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 <!--==================================================-->
 <!--end solutek working proces area -->
@@ -723,7 +1396,7 @@
 <!-- start solutek-faq Area style-two-->
 <!--==================================================-->
 
-<div class="faq-area style-two">
+<!-- <div class="faq-area style-two">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 col-md-12">
@@ -763,7 +1436,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 <!--==================================================-->
 <!-- end solutek-faq Area style-two-->
@@ -777,7 +1450,7 @@
 <!-- Start solutek blog Area style-two-->
 <!--==================================================-->
 
-<div class="blog-area style-two">
+<!-- <div class="blog-area style-two">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-12">
@@ -856,7 +1529,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 <!--==================================================-->
 <!-- end solutek blog Area style-two-->

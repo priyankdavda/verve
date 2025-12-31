@@ -14,7 +14,7 @@
 <!--==================================================-->
 <!-- Start solutek breadcumb Area -->
 <!--==================================================-->
-<div class="breadcumb-area about">
+<div class="breadcumb-area3 about">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -47,11 +47,10 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="section-title text-left">
-					<h5 class="section-sub-title">SOLUTEK COMPANY</h5>
-					<h1 class="section-main-title">We Can Clients With The</h1>
+					<h5 class="section-sub-title">Verve Info System</h5>
+					<h1 class="section-main-title">About Verve Info Systems</h1>
 					<h1 class="section-main-title">About <span>Solution.</span></h1>
-					<p class="section-title-descr">Monotonectally repurpose maintainable infrastruct whereas solutek in
-						fermentum quis tempo sapien maximus design.
+					<p class="section-title-descr">Your strategic partner in building and scaling the global workforce of tomorrow.
 					</p>
 				</div>
 				<div class="about-us-content">
@@ -61,14 +60,14 @@
 							<li><span>24 Hour's Customer Service</span></li>
 						</ul>
 					</div>
-					<div class="solutek-btn">
+					<!-- <div class="solutek-btn">
 						<a href="about-us.html">EXPLORE MORE
 							<div class="solutek-hover-btn hover-bx"></div>
 							<div class="solutek-hover-btn hover-bx2"></div>
 							<div class="solutek-hover-btn hover-bx3"></div>
 							<div class="solutek-hover-btn hover-bx4"></div>
 						</a>
-					</div>
+					</div> -->
 					<div class="col-lg-3 col-md-6 col-sm-6">
 						<div class="single-counter-box">
 							<div class="counter-icon">
@@ -110,15 +109,144 @@
 <!-- end solutek about us Area -->
 <!--==================================================-->
 
+<!--==================================================-->
+<!-- start solutek service Area style two-->
+<!--==================================================-->
+<div class="service-area style-two">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="section-title text-center">
+					<h5 class="section-sub-title">Verve Info System</h5>
+					<h1 class="section-main-title">We Provide Exclusive Service</h1>
+					<!-- <h1 class="section-main-title">For Your Business</h1> -->
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-6 col-md-6">
+				<div class="single-service-box">
+					<div class="service-box-inner">
+						<div class="service-content">
+							<h4 class="service-title">Our Mission</h4>
+							<p class="service-des">To empower global enterprises by engineering intelligent, scalable, and resilient workforce ecosystems. We bridge the gap between talent and opportunity, enabling our clients to innovate and thrive in a rapidly evolving digital world.
+							</p>
+						</div>
+						<div class="service-icon">
+							<img src="assets/images/home-two/service-icon.png" alt="icon">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6">
+				<div class="single-service-box">
+					<div class="service-box-inner">
+						<div class="service-content">
+							<h4 class="service-title">Our Vision</h4>
+							<p class="service-des">To be the world’s most trusted partner for integrated talent and technology solutions, shaping the future of work by creating seamless global collaboration and unlocking human potential everywhere.
+							</p>
+						</div>
+						<div class="service-icon">
+							<img src="assets/images/home-two/service-icon2.png" alt="icon">
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- <div class="col-lg-4 col-md-6">
+				<div class="single-service-box">
+					<div class="service-box-inner">
+						<div class="service-content">
+							<h4 class="service-title">Machine Learning</h4>
+							<p class="service-des">paradigms. Monotonectally extend open-source
+								mvia competitive methods of empowerment dri
+								revolutionize stand- business
+							</p>
+						</div>
+						<div class="service-icon">
+							<img src="assets/images/home-two/ser-icon3.png" alt="icon">
+						</div>
+					</div>
+				</div>
+			</div> -->
+		</div>
+	</div>
+</div>
 
 
+
+<!--==================================================-->
+<!--start solutek working proces area -->
+<!--==================================================-->
+<div class="working-proces-area">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="section-title text-center">
+					<h6 class="section-sub-title">Why Clients Choose Verve</h6>
+					<!-- <h1 class="section-main-title2">Our commitment to excellence is reflected in every partnership.</h1> -->
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-4 col-md-6 col-sm-6">
+				<div class="working-process-box before-transprent after-transprent">
+					<div class="process-thumb">
+						<img src="assets/images/home-3/process-1.png" alt="img">
+						<div class="process-number">
+							<span>01</span>
+						</div>
+					</div>
+					<div class="process-content">
+						<h4>Client-Centric Partnership</h4>
+						<p>We function as an extension of your team, deeply invested in understanding your goals and delivering on your vision.</p>
+					</div>
+				</div>
+			</div>	
+			<div class="col-lg-4 col-md-6 col-sm-6">
+				<div class="working-process-box after-transprent">
+					<div class="process-thumb">
+						<img src="assets/images/home-3/process-2.png" alt="img">
+						<div class="process-number">
+							<span>02</span>
+						</div>
+					</div>
+					<div class="process-content">
+						<h4>Agility and Speed</h4>
+						<p>Our streamlined processes and global reach enable us to respond quickly to your needs, ensuring rapid deployment and results.</p>
+					</div>
+				</div>
+			</div>	
+			<div class="col-lg-4 col-md-6 col-sm-6">
+				<div class="working-process-box before-transprent">
+					<div class="process-thumb">
+						<img src="assets/images/home-3/process-3.png" alt="img">
+						<div class="process-number">
+							<span>03</span>
+						</div>
+					</div>
+					<div class="process-content">
+						<h4>Uncompromising Quality</h4>
+						<p>From talent vetting to solution delivery, we uphold the highest standards of quality and governance in everything we do.</p>
+					</div>
+				</div>
+			</div>			
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="working-process-bottom">
+					<p>We're Delivering The Best Customer Experience <span> since 2016</span></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 
 
 <!--==================================================-->
 <!-- start solutek project Area style-two -->
 <!--==================================================-->
 
-<div class="project-area style-two">
+<!-- <div class="project-area style-two">
 	<div class="container-fluid">
 		<div class="row project align-items-center">
 			<div class="col-lg-6">
@@ -266,7 +394,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 <!--==================================================-->
 <!-- end solutek project Area style-two-->
@@ -279,7 +407,7 @@
 <!--==================================================-->
 
 
-<div class="brand-area">
+<!-- <div class="brand-area">
 	<div class="container">
 		<div class="row">
 			<div class="brand_list owl-carousel">
@@ -321,7 +449,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 
 <!--==================================================-->
@@ -336,7 +464,7 @@
 <!-- Start solutek blog Area -->
 <!--==================================================-->
 
-<div class="blog-area">
+<!-- <div class="blog-area">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-6">
@@ -414,7 +542,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 
 

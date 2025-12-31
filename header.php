@@ -7,7 +7,7 @@
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
-	<!-- <link rel="icon" type="image/png" sizes="56x56" href="assets/images/fav-icon/icon.png"> -->
+	<link rel="icon" type="image/png" sizes="56x56" href="assets/images/fav-icon/icon.png">
 	<!-- bootstrap CSS -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="all">
 	<!-- carousel CSS -->
@@ -92,11 +92,11 @@
 		<div class="row d-flex align-items-center">
 			<div class="col-lg-2">
 				<div class="logo">
-					<a class="logo_img" href="index.html" title="solutek">
-						<img src="assets/images/verve.jpg" alt="logo" class="logo_class">
+					<a class="logo_img" href="index.php" title="solutek">
+						<img src="assets/images/logo.png" alt="logo" class="logo_class">
 					</a>
-					<a class="main_sticky" href="index.html" title="solutek">
-						<img src="assets/images/verve.jpg" alt="astute" class="logo_class">
+					<a class="main_sticky" href="index.php" title="solutek">
+						<img src="assets/images/logo.png" alt="astute" class="logo_class">
 					</a>
 				</div>
 			</div>
@@ -104,7 +104,7 @@
 				<nav class="solutek_menu">
 					<ul class="nav_scroll">
 						<li>
-                            <a href="home.php">Home </a>
+                            <a href="index.php">Home </a>
 							<!-- <ul class="sub-menu">
 								<li><a href="index.html">Home Version 01</a></li>
 								<li><a href="index-2.html">Home Version 02</a></li>
@@ -112,18 +112,18 @@
 							</ul> -->
 						</li>
                         <li>
-                            <a href="about.php">About Us</a>
+                            <a href="about-us.php">About Us</a>
 							<!-- <ul class="sub-menu">
 								<li><a href="index.html">Home Version 01</a></li>
 								<li><a href="index-2.html">Home Version 02</a></li>
 								<li><a href="index-3.html">Home Version 03</a></li>
 							</ul> -->
 						</li>
-                         <li><a href="services.php">Services</a></li>
+                         <li><a href="service.php">Services</a></li>
                          <li><a href="technology.php">Technology</a></li>
-                         <li><a href="gcc/bot.php">GCC/BOT</a></li>
+                         <li><a href="gcc_bot.php">GCC/BOT</a></li>
                          <li><a href="case_studies.php">Case Studies</a></li>
-                         <li><a href="services.php">Services</a></li>
+                         <!-- <li><a href="services.php">Services</a></li> -->
                          <li><a href="insights.php">Insights</a></li>
 						<!-- <li><a href="Insights">Insights <i class="bi bi-chevron-down"></i></a>
 							<ul class="sub-menu">
@@ -158,11 +158,11 @@
 			</div>
 			<div class="col-lg-3">
 				<div class="header-menu-btn">
-					<div class="sidebar-button">
+					<!-- <div class="sidebar-button">
 						<a class="nav-btn navSidebar-button" href="#"><i class="fas fa-bars"></i></a> 
-					</div>
+					</div> -->
 					<div class="solutek-btn">
-						<a class="btn-2" href="contact.html">Get A Quote NOW</a>
+						<a class="btn-2" href="contact.php">Get A Quote NOW</a>
 					</div>
 				</div>
 			</div>
@@ -176,11 +176,16 @@
 	<div class="mobile-menu">
 		<nav class="solutek_menu">
 			<ul class="nav_scroll">
-				<li><a href="#">Home <i class="bi bi-chevron-down"></i></a>
+				<li><a href="index.php">Home <i class="bi bi-chevron-down"></i></a>
+				<li><a href="about-us.php">About US<i class="bi bi-chevron-down"></i></a>
+				<li><a href="services.php">Service <i class="bi bi-chevron-down"></i></a>
+				<li><a href="technology.php">Technology <i class="bi bi-chevron-down"></i></a>
+				<li><a href="gcc_bot.php">GCC/BOT <i class="bi bi-chevron-down"></i></a>
+				<li><a href="case_studies.php">Case Studies <i class="bi bi-chevron-down"></i></a>
+				<li><a href="insights.php">Insights <i class="bi bi-chevron-down"></i></a>
+				<!-- <li>
 					<ul class="sub-menu">
-						<li><a href="index.html">Home Version 01</a></li>
-						<li><a href="index-2.html">Home Version 02</a></li>
-						<li><a href="index-3.html">Home Version 03</a></li>
+						<li><a href="index.php">Home</a></li>
 					</ul>
 				</li>
 				<li><a href="#">Company <i class="bi bi-chevron-down"></i></a>
@@ -210,7 +215,7 @@
 						<li><a href="blog-details.html">Blog Details</a></li>
 					</ul>
 				</li>
-				<li><a href="contact.html">Contact</a></li>
+				<li><a href="contact.html">Contact</a></li> -->
 			</ul>
 		</nav>
 	</div>

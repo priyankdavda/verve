@@ -4206,6 +4206,18 @@ h3.blog-title-two a {
     background-position: center center;
 }
 
+.breadcumb-area2 {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.breadcumb-area3 {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
 .about-us-shape2 {
     display: none;
 }

@@ -60,11 +60,9 @@
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="footer-widget">
 					<div class="footer-logo">
-						<a href="index.html"><img src="assets/images/footer-logo.png" alt="footer-logo"></a>
+						<a href="index.php"><img src="assets/images/logo.png" alt="footer-logo"></a>
 					</div>
-					<p class="footer-widget-text">Globally monetize plug-and-play data it solu
-					monotonectally disseminate oriented busine
-					multifunctional mind design.</p>
+					<p class="footer-widget-text">Your strategic partner for global workforce solutions, GCC setup, and digital transformation. Building the future of work, today.</p>
 					<div class="footer-social">
 						<div class="footer-widget-social">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -78,61 +76,64 @@
 			<div class="col-lg-2 col-md-6 col-sm-6">
 				<div class="footer-widget left">
 					<div class="widget-title">
-						<h2>Useful Links</h2>
+						<h2>Company</h2>
 					</div>
 					<ul>
-						<li><a href="about-us.html">About Company</a></li>
-						<li><a href="team.html">Meet Our Team</a></li>
-						<li><a href="blog-grid.html">Latest Blog</a></li>
-						<li><a href="contact.html">Contact Us</a></li>
-						<li><a href="testimonial.html">Testimonials</a></li>
+						<li><a href="about-us.php">About Us</a></li>
+						<li><a href="case_studies.php">Case Studies</a></li>
+						<li><a href="insights.php">Insights</a></li>
+						<li><a href="contact.php">Contact Us</a></li>
+						<li><a href="terms.php">Terms of Service</a></li>
+						<li><a href="privacy.php">Privacy Policy</a></li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="footer-widget left">
 					<div class="widget-title">
-						<h2>Services.</h2>
+						<h2>Solutions</h2>
 					</div>
 					<ul>
-						<li><a href="about-us.html">About Company</a></li>
-						<li><a href="team.html">Meet Our Team</a></li>
-						<li><a href="blog-grid.html">Latest Blog</a></li>
-						<li><a href="contact.html">Contact Us</a></li>
-						<li><a href="faq.html">FAQ</a></li>
+						<li><a href="ta.php">Talent Alignment</a></li>
+						<li><a href="gcc_bot.php">GCC Setup</a></li>
+						<li><a href="technology.php">Digital Consultinga</li>
+						<li><a href="services.php">Managed Services</a></li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="footer-widget-newsletter">
 					<div class="widget-title">
-						<h2>Newsletter</h2>
+						<h2>Global Presence</h2>
 					</div>
-					<p class="newsletter-text">Globally monetize plug-and-play data it solu
-					monotonectally disseminate oriented busine
-					multifunctional mind design.</p>
-					<div class="Subscribe-form2">
+					<p class="newsletter-text"><b>USA:</b> New York, San Francisco</p>
+					<p class="newsletter-text"><b>UK & Europe:</b> London, Dublin, Berlin</p>
+					<p class="newsletter-text"><b>India (Delivery):</b> Bengaluru, Hyderabad</p>
+					<p class="newsletter-text"><b>hello@verveinfosystems.com</b></p>
+					<!-- <div class="Subscribe-form2">
 						<form>
 							<div class="form-field2">
 								<input type="email" name="EMAIL" placeholder="Enter Your E-mail" required="">
 								<button class="subscribe-button" type="submit"><i class="bi bi-send"></i></button>
 							</div>
 						</form>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</div>
 		<div class="row copyright">
 			<div class="col-lg-6 col-md-6 col-sm-6">
 				<div class="-copyright-text">
-					<p>© Copyright 2024 By Solutek</p>
+					<p>© 2025 Verve Info Systems. All rights reserved.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-6">
 				<div class="copyright-list">
 					<ul>
-						<li><a href="index.html">Privacy Policy</a></li>
-						<li><a href="index-2.html">Supports</a></li>
+						<!-- <li><a href="index.php">Privacy Policy</a></li>
+						<li><a href="index.php">Supports</a></li> -->
+						<li><a href="terms.php">Terms of Service</a></li>
+						<li><a href="privacy.php">Privacy Policy</a></li>
 					</ul>
 				</div>
 			</div>
