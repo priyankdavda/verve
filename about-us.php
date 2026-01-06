@@ -68,18 +68,7 @@
 							<div class="solutek-hover-btn hover-bx4"></div>
 						</a>
 					</div> -->
-					<div class="col-lg-3 col-md-6 col-sm-6">
-						<div class="single-counter-box">
-							<div class="counter-icon">
-								<img src="assets/images/inner/counter-icon.png" alt="icon">
-							</div>
-							<div class="counter-content">
-								<h4 class="counter">826</h4>
-								<span>+</span>
-								<p>Satisfied Clients</p>
-							</div>
-						</div>
-					</div>
+
 				</div>
 			</div>
 			<div class="col-lg-6">
@@ -87,9 +76,7 @@
 					<div class="about-us-img">
 						<img src="assets/images/inner/about-us-thu.png" alt="thumb">
 					</div>
-					<div class="about-us-video-icon">	
-						<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://www.youtube.com/watch?v=Wx48y_fOfiY"><i class="bi bi-play"></i><span>WATCH VIDEO</span></a>
-					</div>
+
 					<div class="about-us-shape">
 						<img src="assets/images/inner/us-shape.png" alt="shape">
 					</div>
@@ -231,13 +218,7 @@
 				</div>
 			</div>			
 		</div>
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="working-process-bottom">
-					<p>We're Delivering The Best Customer Experience <span> since 2016</span></p>
-				</div>
-			</div>
-		</div>
+
 	</div>
 </div>
 

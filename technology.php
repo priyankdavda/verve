@@ -1,4 +1,4 @@
-
+x	
 <?php include 'header.php'; ?>
 <!--==================================================-->
 <!-- Start Curser Section Here -->
@@ -32,173 +32,116 @@
 					</div>
 				</div>
 			</div>
-			<div class="row image_load">
-				<div class="col-lg-12 col-sm-12 grid-item ESD">
-					<div class="case-study-single-box">
-						<div class="case-study-thumb"></div>
-						<div class="case-study-content">
-							<div class="case-study-title">
-								<div class="blog-tags">
-									<div class="blog-card"><p class="blog-inner-card">Python</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Node.js</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Angular</p></div>
-									<div class="blog-card"><p class="blog-inner-card">React</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Vue.js</p></div>
-									<div class="blog-card"><p class="blog-inner-card">C++</p></div>
-									<div class="blog-card"><p class="blog-inner-card">PHP</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Ruby on Rails</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Go</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Swift</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Kotlin</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Spring Boot</p></div>
-									<div class="blog-card"><p class="blog-inner-card">ASP.NET Core</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Django</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Flask</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Express.js</p></div>
-									<div class="blog-card"><p class="blog-inner-card">NestJS</p></div>
-									<div class="blog-card"><p class="blog-inner-card">TypeScript</p></div>
-									<div class="blog-card"><p class="blog-inner-card">HTML5 & CSS3</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Sass / SCSS</p></div>
-									
-								</div>
-								<!-- <h3><a href="project-details.html">digital marketing</a></h3> -->
-							</div>
-							<p class="section-title-descr3">...and over 250+ specialized skills and frameworks within our delivery teams.</p>
-							
-							<!-- <div class="case-study-icon">
-								<i class="bi bi-arrow-right"></i>
-							</div> -->
-						</div>
-						
-					</div>
-				</div>
-				<div class="col-lg-12 col-sm-12 grid-item cloud">
-					<div class="case-study-single-box">
-						<div class="case-study-thumb">
-						
-						</div>
-						<div class="case-study-content">
-							<div class="case-study-title">
-								<div class="blog-tags">
-									<div class="blog-card"><p class="blog-inner-card">AWS</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Azure</p></div>
-									<div class="blog-card"><p class="blog-inner-card">GCP</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Kubernetes</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Terraform</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Jenkins</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Docker</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Ansible</p></div>
-									<div class="blog-card"><p class="blog-inner-card">GitLab CI</p></div>
-									<div class="blog-card"><p class="blog-inner-card">CircleCI</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Prometheus</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Grafana</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Serverless</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Vercel</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Netlify</p></div>
-									<div class="blog-card"><p class="blog-inner-card">CI/CD Pipeline Design</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Infrastructure as Code (IaC)</p></div>
-								</div>
-							</div>
-							<p class="section-title-descr3">...and over 250+ specialized skills and frameworks within our delivery teams.</p>
-							
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-12 col-sm-12 grid-item data_and_AI">
-					<div class="case-study-single-box">
-						<div class="case-study-thumb">
-						
-						</div>
-						<div class="case-study-content">
-							<div class="case-study-title">
-								<div class="blog-tags">
-									<div class="blog-card"><p class="blog-inner-card">Snowflake</p></div>
-									<div class="blog-card"><p class="blog-inner-card">TensorFlow</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Hadoop</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Power BI</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Big Data Architecture</p></div>
-									<div class="blog-card"><p class="blog-inner-card">PyTorch</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Scikit-learn</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Pandas</p></div>
-									<div class="blog-card"><p class="blog-inner-card">NumPy</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Apache Spark</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Kafka</p></div>
-									<div class="blog-card"><p class="blog-inner-card">SQL</p></div>
-									<div class="blog-card"><p class="blog-inner-card">NoSQL (MongoDB, Cassandra)</p></div>
-									<div class="blog-card"><p class="blog-inner-card">ETL / ELT</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Data Warehousing</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Machine Learning</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Natural Language Processing (NLP)</p></div>
-								</div>
+			<div class="row image_load justify-content-center">
+				<?php
+				$sections = [
+					'ESD' => [
+						'title' => 'Engineering & Software Development',
+						'techs' => [
+							['name' => 'Python', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'],
+							['name' => 'Node.js', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'],
+							['name' => 'Angular', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'],
+							['name' => 'React', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'],
+							['name' => 'Vue.js', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg'],
+							['name' => 'C++', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'],
+							['name' => 'PHP', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'],
+							['name' => 'Ruby on Rails', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg'], 
+							['name' => 'Go', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg'],
+							['name' => 'Swift', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg'],
+							['name' => 'Kotlin', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg'],
+							['name' => 'Spring Boot', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg'],
+							['name' => 'ASP.NET Core', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg'],
+							['name' => 'Django', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg'],
+							['name' => 'Flask', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg'],
+							['name' => 'Express.js', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg'],
+							['name' => 'Next.js', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'],
+							['name' => 'TypeScript', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'],
+							['name' => 'HTML5', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'],
+							['name' => 'CSS3', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'],
+							['name' => 'Sass', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'],
+						]
+					],
+					'cloud' => [
+						'title' => 'Cloud & DevOps',
+						'techs' => [
+							['name' => 'AWS', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg'],
+							['name' => 'Azure', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg'],
+							['name' => 'GCP', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg'],
+							['name' => 'Kubernetes', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg'],
+							['name' => 'Terraform', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg'],
+							['name' => 'Jenkins', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg'],
+							['name' => 'Docker', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg'],
+							['name' => 'Ansible', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg'],
+							['name' => 'GitLab', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg'],
+							['name' => 'Prometheus', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg'],
+							['name' => 'Grafana', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg'],
+						]
+					],
+					'data_and_AI' => [
+						'title' => 'Data & AI',
+						'techs' => [
+							['name' => 'Snowflake', 'icon' => 'https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg'], 
+							['name' => 'TensorFlow', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg'],
+							['name' => 'Hadoop', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg'],
+							['name' => 'Power BI', 'icon' => 'https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg'], 
+							['name' => 'PyTorch', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg'],
+							['name' => 'Scikit-learn', 'icon' => 'https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg'],
+							['name' => 'Pandas', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg'],
+							['name' => 'NumPy', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg'],
+							['name' => 'Apache Spark', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg'],
+							['name' => 'Kafka', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg'],
+							['name' => 'MongoDB', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'],
+							['name' => 'Cassandra', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg'], // Fallback or Apache logo
+							['name' => 'SQL', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'],
+						]
+					],
+					'ERP' => [
+						'title' => 'ERP & CRM',
+						'techs' => [
+							['name' => 'SAP', 'icon' => 'https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sap.svg'],
 
-							</div>
-							<p class="section-title-descr3">...and over 250+ specialized skills and frameworks within our delivery teams.</p>
+							['name' => 'Oracle', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg'],
+							['name' => 'Salesforce', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg'],
+							['name' => 'Workday', 'icon' => 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRleHQgeD0iMTAiIHk9IjU1IiBmb250LXNpemU9IjQwIiBmaWxsPSIjRkY2NjAwIj5XPC90ZXh0Pjwvc3ZnPg=='],
+							['name' => 'Dynamics 365', 'icon' => 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRleHQgeD0iNSIgeT0iNTUiIGZvbnQtc2l6ZT0iMzIiIGZpbGw9IiMwMDc4RkYiPkQzNjU8L3RleHQ+PC9zdmc+'
+        ],
+						]
+					],
+					'Infrastructure' => [
+						'title' => 'Infrastructure & Security',
+						'techs' => [
+							['name' => 'Linux', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg'],
+							['name' => 'Windows', 'icon' => 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg'],
+							['name' => 'VMware', 'icon' => 'https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg'],
+							['name' => 'Cisco', 'icon' => 'https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg'],
+						]
+					]
+				];
 
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-lg-12 col-sm-12 grid-item ERP">
-					<div class="case-study-single-box">
-						<div class="case-study-thumb">
-						
-						</div>
-						<div class="case-study-content">
-							<div class="case-study-title">
-								<div class="blog-tags">
-									<div class="blog-card"><p class="blog-inner-card">SAP</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Oracle</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Salesforce</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Workday</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Microsoft Dynamics 365</p></div>
-									<div class="blog-card"><p class="blog-inner-card">NetSuite</p></div>
-									<div class="blog-card"><p class="blog-inner-card">SAP S/4HANA</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Oracle Fusion Cloud</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Salesforce Sales Cloud</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Salesforce Service Cloud</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Workday HCM</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Microsoft Power Platform</p></div>
+				foreach ($sections as $filterClass => $data) {
+					foreach ($data['techs'] as $tech) {
+						?>
+						<div class="col-lg-3 col-md-4 col-6 grid-item <?php echo $filterClass; ?>">
+							<div class="tech-card-box">
+								<div class="tech-icon">
+									<img src="<?php echo $tech['icon']; ?>" alt="<?php echo $tech['name']; ?>" title="<?php echo $tech['name']; ?>">
 								</div>
+								<h3 class="feature-title"><?php echo $tech['name']; ?></h3>
 							</div>
-							<p class="section-title-descr3">...and over 250+ specialized skills and frameworks within our delivery teams.</p>
-
 						</div>
-					</div>
-				</div>
-				<div class="col-lg-12 col-sm-12 grid-item Infrastructure">
-					<div class="case-study-single-box">
-						<div class="case-study-thumb">
-						
-						</div>
-						<div class="case-study-content">
-							<div class="case-study-title">
-								<div class="blog-tags">
-									<div class="blog-card"><p class="blog-inner-card">Cisco</p></div>
-									<div class="blog-card"><p class="blog-inner-card">VMware</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Linux</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Windows Server</p></div>
-									<div class="blog-card"><p class="blog-inner-card">ITSM</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Cloud Security</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Network Architecture</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Palo Alto Networks</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Fortinet</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Active Directory</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Cybersecurity Frameworks (NIST, ISO 27001)</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Penetration Testing</p></div>
-									<div class="blog-card"><p class="blog-inner-card">SIEM</p></div>
-									<div class="blog-card"><p class="blog-inner-card">Endpoint Detection & Response (EDR)</p></div>
-								</div>
-
-							</div>
-							<p class="section-title-descr3">...and over 250+ specialized skills and frameworks within our delivery teams.</p>
-
-						</div>
-					</div>
-				</div>
-				
-				
-				
+						<?php
+					}
+				}
+				?>
 			</div>
+			<!-- Unified Footer Note -->
+			<div class="row">
+				<div class="col-lg-12 text-center" style="margin-top: 40px;">
+					<p class="section-title-descr3" style="font-size: 18px; color: #666;">...and over 250+ specialized skills and frameworks within our delivery teams.</p>
+				</div>
+			</div>
+		</div>
+	</div>
 		</div>
 	</div>
 <!--==================================================-->

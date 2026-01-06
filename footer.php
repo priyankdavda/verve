@@ -25,7 +25,7 @@
 						<img src="assets/images/address2.png" alt="address1">
 					</div>
 					<div class="solutek-btn">
-						<a href="contact.html">+44 920 090 505
+						<a href="contact.html">+91 95126 11125
 							<div class="solutek-hover-btn hover-bx"></div>
 							<div class="solutek-hover-btn hover-bx2"></div>
 							<div class="solutek-hover-btn hover-bx3"></div>
@@ -59,16 +59,23 @@
 		<div class="row footer">
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="footer-widget">
-					<div class="footer-logo">
-						<a href="index.php"><img src="assets/images/logo.png" alt="footer-logo"></a>
+					<div class="footer-logo" style="height:200px; display:flex; align-items:center;">
+						<a href="index.php">
+							<img 
+								src="assets/images/LOGO VERVE011-01.png" 
+								alt="footer-logo"
+								style="height:150px; width:auto; object-fit:contain;"
+							>
+						</a>
 					</div>
+
 					<p class="footer-widget-text">Your strategic partner for global workforce solutions, GCC setup, and digital transformation. Building the future of work, today.</p>
 					<div class="footer-social">
 						<div class="footer-widget-social">
-							<a href="#"><i class="fab fa-facebook-f"></i></a>
+							<!-- <a href="#"><i class="fab fa-facebook-f"></i></a> -->
 							<a href="#"><i class="fab fa-twitter"></i></a>
 							<a href="#"><i class="fab fa-linkedin-in"></i></a>
-							<a href="#"><i class="fab fa-pinterest-p"></i></a>
+							<!-- <a href="#"><i class="fab fa-pinterest-p"></i></a> -->
 						</div>
 					</div>
 				</div>
@@ -104,11 +111,10 @@
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="footer-widget-newsletter">
 					<div class="widget-title">
-						<h2>Global Presence</h2>
+						<h2>Presence</h2>
 					</div>
-					<p class="newsletter-text"><b>USA:</b> New York, San Francisco</p>
-					<p class="newsletter-text"><b>UK & Europe:</b> London, Dublin, Berlin</p>
-					<p class="newsletter-text"><b>India (Delivery):</b> Bengaluru, Hyderabad</p>
+					<p class="newsletter-text"><b>India:</b> 
+						522, Vihav Trade Center, Nr. Waves Club, Bhayli, Vadodara - 391410</p>
 					<p class="newsletter-text"><b>hello@verveinfosystems.com</b></p>
 					<!-- <div class="Subscribe-form2">
 						<form>
@@ -140,7 +146,7 @@
 		</div>
 	</div>
 </div>
-	
+
 <!--==================================================-->
 <!-- end solutek Footer Area -->
 <!--==================================================-->

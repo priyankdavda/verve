@@ -49,37 +49,7 @@
 	</div>
 
 
-<!--==================================================-->
-<!-- Start solutek top header area -->
-<!--==================================================-->
-	<div class="top-header-area">
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-lg-8">
-					<div class="header-info">
-						<ul>
-							<li><i class="bi bi-geo-alt-fill"></i>New market Sandigo - California</li>
-							<li class="exam-gmail"><i class="bi bi-envelope"></i>example@gmail.com</li>
-							<li><i class="bi bi-alarm"></i>9.00 am - 5.00 pm</li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-lg-4">
-					<div class="top-header-social-icon">
-						<ul>
-							<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-							<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-							<li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-<!--==================================================-->
-<!-- End solutek top header area -->
-<!--==================================================-->
+
 
 
 
@@ -87,20 +57,42 @@
 <!--==================================================-->
 <!-- Start solutek Main Menu Area -->
 <!--==================================================-->
+<style>
+    /* Compact Header Padding */
+    .solutek_nav_manu.style-three { padding: 5px 40px 0 !important; }
+    
+    /* Optimize Menu Spacing for col-lg-6 */
+    .solutek_menu > ul > li > a { margin: 23px 8px !important; font-size: 15px !important; }
+    nav.solutek_menu ul li a i { padding-left: 1px !important; }
+    
+    /* Optimized Logo Settings */
+    .logo_class { 
+        max-height: 100px;  /* Optimal height: Large but fits */
+        width: auto;       
+        max-width: 100%;   
+    }
+
+    /* Compact 'Get A Quote' Button */
+    .solutek-btn a.btn-2 {
+        padding: 12px 25px !important; /* Reduced padding */
+        font-size: 14px !important;    /* Proportional font size */
+        line-height: 1.2 !important;
+    }
+</style>
 <div id="sticky-header" class="solutek_nav_manu style-three">
 	<div class="container-fluid">
 		<div class="row d-flex align-items-center">
-			<div class="col-lg-2">
+			<div class="col-lg-3">
 				<div class="logo">
 					<a class="logo_img" href="index.php" title="solutek">
-						<img src="assets/images/logo.png" alt="logo" class="logo_class">
+						<img src="assets/images/LOGO VERVE01-01.png" alt="logo" class="logo_class">
 					</a>
 					<a class="main_sticky" href="index.php" title="solutek">
-						<img src="assets/images/logo.png" alt="astute" class="logo_class">
+						<img src="assets/images/LOGO VERVE011-01.png" alt="astute" class="logo_class">
 					</a>
 				</div>
 			</div>
-			<div class="col-lg-7">
+			<div class="col-lg-6">
 				<nav class="solutek_menu">
 					<ul class="nav_scroll">
 						<li>

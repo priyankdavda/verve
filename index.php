@@ -1537,4 +1537,39 @@
 
 
 
+<!-- Equal Height Script -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    function equalizeHeights() {
+        // Target specifically the service boxes to avoid global issues
+        var containers = document.querySelectorAll('.our-service-section .row');
+        
+        containers.forEach(function(row) {
+            // Find inputs in this row
+            var boxes = row.querySelectorAll('.single-service-box');
+            if(boxes.length === 0) return;
+            
+            // Reset to auto first
+            boxes.forEach(function(b) { b.style.height = 'auto'; });
+            
+            // Calc max height
+            var maxH = 0;
+            boxes.forEach(function(b) {
+                if(b.offsetHeight > maxH) maxH = b.offsetHeight;
+            });
+            
+            // Apply max height
+            boxes.forEach(function(b) { b.style.height = maxH + 'px'; });
+        });
+    }
+    
+    // Run on load and resize
+    equalizeHeights();
+    window.addEventListener('resize', equalizeHeights);
+    // Safety check loop for dynamic font loading
+    setTimeout(equalizeHeights, 500);
+    setTimeout(equalizeHeights, 2000);
+});
+</script>
+
 <?php include 'footer.php'; ?>

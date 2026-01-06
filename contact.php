@@ -8,7 +8,43 @@
 <!-- Ends Curser Section Here -->
 <!--==================================================-->
 
+<style>
+/* Dropdown 	 */
+.form_box select {
+	width: 100%;
+	height: 60px;
+	padding: 0 23px;
+	border: 1px solid rgba(122, 122, 122, 0.5);
+	border-radius: 15px;
+	background: #ffffff;
+	font-size: 16px;
+	line-height: 26px;
+	color: #7a7a7a;
+	font-weight: 400;
+	font-family: "Fira Sans";
+	margin-bottom: 21px;
+	transition: 0.5s;
+	outline: none;
+	cursor: pointer;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20'%3E%3Cpath fill='%237a7a7a' d='M5 7l5 5 5-5H5z'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-position: right 20px center;
+	padding-right: 50px;
+}
 
+.form_box select:focus {
+	border-color: #ff3d00;
+	box-shadow: 0 0 4px rgba(255, 61, 0, 0.5);
+}
+
+.form_box select option {
+	padding: 10px;
+	color: #7a7a7a;
+}
+</style>
 
 <!--==================================================-->
 <!-- Start solutek breadcumb Area -->
@@ -54,22 +90,34 @@
 							<div class="row">
 								<div class="col-lg-6">
 									<div class="form_box">
-										<input type="text" name="name" placeholder="Your Name *">
+										<input type="text" name="name" placeholder="Your Name *" required>
 									</div>
 								</div>
 								<div class="col-lg-6">
 									<div class="form_box">
-										<input type="email" name="email" placeholder="Your E-Mail *">
+										<input type="email" name="email" placeholder="Your E-Mail *" required>
 									</div>
 								</div>
 								<div class="col-lg-6">
 									<div class="form_box">
-										<input type="text" name="subject" placeholder="Subject *">
+										<input type="text" name="subject" placeholder="Subject *" required>
 									</div>
 								</div>
 								<div class="col-lg-6">
 									<div class="form_box">
-										<input type="text" name="phone" placeholder="Phone *">
+										<input type="text" name="phone" placeholder="Phone *" required>
+									</div>
+								</div>
+								<div class="col-lg-12">
+									<div class="form_box">
+										<select name="inquiry_type" id="inquiry_type" required>
+											<option value="" disabled selected>How can we help? Select your primary requirement *</option>
+											<option value="Hire Talent / Staff Augmentation">Hire Talent / Staff Augmentation</option>
+											<option value="Setup GCC / BOT">Setup GCC / BOT</option>
+											<option value="Digital Consulting / Project">Digital Consulting / Project</option>
+											<option value="RFP / Vendor Partnership">RFP / Vendor Partnership</option>
+											<option value="General Inquiry">General Inquiry</option>
+										</select>
 									</div>
 								</div>
 								<div class="col-lg-12">
@@ -77,7 +125,7 @@
 										<textarea name="message" id="message" cols="30" rows="10" placeholder="Message"></textarea>
 									</div>
 									<div class="quote_button">
-										<button class="btn" type="submit">SENS NOW <i class="bi bi-arrow-right"></i></button>
+										<button class="btn" type="submit">SUBMIT <i class="bi bi-arrow-right"></i></button>
 									</div>
 								</div>
 							</div>
@@ -91,51 +139,14 @@
 						
 						<div class="widget-sidber">
 							<div class="widget-sidber-content">
-								<h4>Popular Post</h4>
+								<h4>Address</h4>
 							</div>
 							<div class="sidber-widget-recent-post">
-								<!-- <div class="recent-widget-thumb">
-									<img src="assets/images/inner/recent-post.png" alt="img">
-								</div> -->
 								<div class="recent-widget-content">
-									<a href="#">USA
-										</a>	
-									<p class="address"> New York & San Francisco</p>							
-									<p> usa@verveinfosystems.com</p>							
-								</div>
-							</div>							
-							<div class="sidber-widget-recent-post">
-								<!-- <div class="recent-widget-thumb">
-									<img src="assets/images/inner/recent-post2.png" alt="img">
-								</div> -->
-								<div class="recent-widget-content">
-									<a href="#">UK
-										</a>	
-									<p class="address"> London & Manchester</p>							
-									<p> uk@verveinfosystems.com</p>							
-								</div>
-							</div>							
-							<div class="sidber-widget-recent-post">
-								<!-- <div class="recent-widget-thumb">
-									<img src="assets/images/inner/recent-post3.png" alt="img">
-								</div> -->
-								<div class="recent-widget-content">
-									<a href="#">Europe
-
-										</a>	
-									<p class="address"> Dublin & Amsterdam</p>							
-									<p> eu@verveinfosystems.com</p>							
-								</div>
-							</div>
-							<div class="sidber-widget-recent-post">
-								<!-- <div class="recent-widget-thumb">
-									<img src="assets/images/inner/recent-post3.png" alt="img">
-								</div> -->
-								<div class="recent-widget-content">
-									<a href="#">India
-										</a>	
-									<p class="address"> Bengaluru (HQ) & Hyderabadco</p>							
-									<p> india@verveinfosystems.com</p>							
+									<a href="#">India</a>	
+									<p class="address"> 522, Vihav Trade Center,
+											Nr. Waves Club,
+											Bhayli, Vadodara - 391410</p>													
 								</div>
 							</div>
 						</div>		
@@ -145,23 +156,15 @@
 								<h4>Direct Contacts</h4>
 							</div>
 							<div class="sidber-widget-recent-post">
-								<!-- <div class="recent-widget-thumb">
-									<img src="assets/images/inner/recent-post.png" alt="img">
-								</div> -->
 								<div class="recent-widget-content">
-									<a href="#">General Inquiries
-										</a>	
+									<a href="#">Inquiries</a>	
 									<p class="address"> hello@verveinfosystems.com</p>		
 								</div>
 							</div>							
 							<div class="sidber-widget-recent-post">
-								<!-- <div class="recent-widget-thumb">
-									<img src="assets/images/inner/recent-post2.png" alt="img">
-								</div> -->
 								<div class="recent-widget-content">
-									<a href="#">Sales & Partnerships
-										</a>	
-									<p class="address"> +1 (555) 123-4567</p>				
+									<a href="#">Phone</a>	
+									<p class="address"> +91 95126 11125</p>				
 								</div>
 							</div>							
 						</div>	

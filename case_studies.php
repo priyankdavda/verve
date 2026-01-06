@@ -282,31 +282,37 @@
 <!-- Start CTA Section -->
 <!--==================================================-->
 <div class="container" style="margin-bottom: 80px;">
-	<div class="hero-area style-three d-flex align-items-center wow fadeInUp" data-wow-delay="0.4s" style="height: auto; padding: 50px 40px; background-color: #050a1e; border-radius: 20px; overflow: hidden; position: relative; width: 100%;">
-		<div class="row hero align-items-center w-100 m-0">
+	<div class="hero-area style-three d-flex align-items-center" style="height: auto; padding: 60px 40px; background-color: #050a1e; border-radius: 20px; overflow: hidden; position: relative; width: 100%;">
+		<div class="row hero align-items-center w-100">
 			<!-- Text Column -->
-			<div class="col-lg-7 col-md-7 p-0">
+			<div class="col-lg-7 col-md-7">
 				<div class="hero-contant" style="padding-top: 0;">
-					<h1 style="font-size: 32px; line-height: 1.3; margin-bottom: 15px; font-weight: 800; color: #fff;">Ready to Build Your Future Workforce?</h1>
-					<p style="margin-bottom: 25px; padding: 0; opacity: 0.9; font-size: 16px; color: #fff;">Let's connect. Discover how our strategic approach to talent and technology can help you scale with confidence and precision.</p>
-					<div class="d-flex align-items-center flex-wrap">
-						<div class="solutek-btn" style="margin-right: 15px;">
-							<a href="contact.php" class="btn-2">Book Strategy Call</a>
-						</div>
+					<h1 style="font-size: 32px; line-height: 1.3; margin-bottom: 15px;">Ready to Build Your Future Workforce?</h1>
+					<p style="margin-bottom: 25px; padding: 0; opacity: 0.9;">Let's connect. Discover how our strategic approach to talent and technology can help you scale with confidence and precision.</p>
+					<div class="solutek-btn" style="margin-right: 15px;">
+						<a href="contact.php" class="btn-2">Book Strategy Call</a>
+					</div>
+					<div class="hero-btn-3">
 						<div class="hero-btn-profile">
-							<a href="service-details.php?service=gcc" style="color: #fff; font-weight: 600; text-decoration: underline;">Start GCC Assessment</a>
+							<a href="service-details.php?service=gcc">Start <span> GCC Assessment</span></a>
 						</div>
 					</div>
 					<!-- Background Shape -->
-					<div class="hero-left-shape" style="opacity: 0.4; left: -20px; top: 50%;">
+					<div class="hero-left-shape" style="opacity: 0.4; left: -20px;">
 						<img src="assets/images/home-3/hero-geo.png" alt="shape">
 					</div>
 				</div>
 			</div>
 			<!-- Image Column -->
-			<div class="col-lg-5 col-md-5 p-0 d-flex justify-content-end align-items-end">
-				<div class="hero-thumb-3 text-end" style="margin-top: 0;">
-					<img src="assets/images/inner/about-us-thu.png" alt="thumb" style="max-height: 280px; width: auto; max-width: 100%;">
+			<div class="col-lg-5 col-md-5">
+				<div class="hero-thumb-3" style="text-align: center; margin-top: 0;">
+					<div class="hero-img" style="max-width: 100%; display: inline-block;">
+						<img src="assets/images/home-3/hero-thum.png" alt="thumb" style="max-width: 90%;">
+					</div>
+					<!-- Decorative Shape -->
+					<div class="hero-thumb-shape" style="right: 0;">
+						<img src="assets/images/home-3/hero-rs.png" alt="shape">
+					</div>
 				</div>
 			</div>
 		</div>
