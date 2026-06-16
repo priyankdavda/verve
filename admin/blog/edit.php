@@ -99,7 +99,12 @@ if (isset($_POST['update'])) {
 
 include '../includes/header.php';
 include '../includes/sidebar.php';
-
+$categories = mysqli_query(
+    $conn,
+    "SELECT * FROM blog_categories
+     WHERE status='active'
+     ORDER BY name ASC"
+);
 ?>
 
 <div class="main-content">

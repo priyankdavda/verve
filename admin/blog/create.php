@@ -34,6 +34,7 @@ if (isset($_POST['save'])) {
     );
 
     $status = $_POST['status'];
+    $blog_date = $_POST['blog_date'];
 
     $featured_image = '';
 
@@ -50,28 +51,31 @@ if (isset($_POST['save'])) {
         );
     }
 
-    $sql = "INSERT INTO blogs
-    (
-        category_id,
-        title,
-        slug,
-        short_description,
-        description,
-        featured_image,
-        author_name,
-        status
-    )
-    VALUES
-    (
-        '$category_id',
-        '$title',
-        '$slug',
-        '$short_description',
-        '$description',
-        '$featured_image',
-        '$author_name',
-        '$status'
-    )";
+$sql = "INSERT INTO blogs
+(
+    category_id,
+    title,
+    slug,
+    short_description,
+    description,
+    featured_image,
+    author_name,
+    blog_date,
+    status
+)
+VALUES
+(
+    '$category_id',
+    '$title',
+    '$slug',
+    '$short_description',
+    '$description',
+    '$featured_image',
+    '$author_name',
+    '$blog_date',
+    '$status'
+)";
+
 
     $result = mysqli_query($conn, $sql);
 
@@ -85,6 +89,13 @@ if (isset($_POST['save'])) {
 
 include '../includes/header.php';
 include '../includes/sidebar.php';
+
+$categories = mysqli_query(
+    $conn,
+    "SELECT * FROM blog_categories
+     WHERE status='active'
+     ORDER BY name ASC"
+);
 ?>
 
 <div class="main-content">
@@ -120,7 +131,12 @@ include '../includes/sidebar.php';
                             Slug
                         </label>
 
-                        <input type="text" class="form-control" id="slug" name="slug">
+                       <input
+type="text"
+class="form-control"
+id="slug"
+name="slug"
+readonly>
                     </div>
 
                     <div class="mb-3">
@@ -173,9 +189,19 @@ include '../includes/sidebar.php';
                         <label class="form-label">Category</label>
 
                         <select name="category_id" class="form-select">
-                            <option value="">Select Category</option>
-                            <option value="1">Technology</option>
-                            <option value="2">Business</option>
+                            <option value="">
+                                Select Category
+                            </option>
+
+                            <?php while ($cat = mysqli_fetch_assoc($categories)) { ?>
+
+                                <option value="<?= $cat['id']; ?>">
+
+                                    <?= htmlspecialchars($cat['name']); ?>
+
+                                </option>
+
+                            <?php } ?>
                         </select>
                     </div>
 
@@ -196,6 +222,15 @@ include '../includes/sidebar.php';
                         <input type="file" name="featured_image" class="form-control" onchange="previewImage(event)">
 
                         <img id="preview" class="preview-image">
+
+                    </div>
+                    <div class="mb-3">
+
+                        <label class="form-label">
+                            Blog Date
+                        </label>
+
+                        <input type="date" name="blog_date" class="form-control" value="<?= date('Y-m-d'); ?>">
 
                     </div>
 
@@ -219,6 +254,17 @@ include '../includes/sidebar.php';
 
 <script>
     CKEDITOR.replace('description');
+</script>
+<script>
+document.getElementById('title').addEventListener('keyup', function(){
+
+    let slug = this.value
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g,'-')
+        .replace(/^-|-$/g,'');
+
+    document.getElementById('slug').value = slug;
+});
 </script>
 
 <script>

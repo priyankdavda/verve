@@ -5,24 +5,23 @@
     </div>
 
     <ul>
-        <li>
-            <a href="../dashboard.php">
-                Dashboard
+
+
+    <li>
+            <a href="../category/index.php">
+                Blog Categories
             </a>
         </li>
-
         <li>
             <a href="../blog/index.php">
                 Blogs
             </a>
         </li>
 
-        <li>
-            <a href="../blog/create.php">
-                Add Blog
-            </a>
-        </li>
 
+        
+
+        
         <li>
             <a href="../logout.php">
                 Logout

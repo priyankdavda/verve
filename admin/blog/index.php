@@ -32,6 +32,14 @@ $result = mysqli_query(
         </div>
     <?php } ?>
 
+    <?php if(isset($_GET['deleted'])){ ?>
+
+<div class="alert alert-danger">
+    Blog Deleted Successfully
+</div>
+
+<?php } ?>
+
     <div class="blog-card">
 
         <div style="overflow-x:auto;">
