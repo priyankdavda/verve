@@ -159,7 +159,8 @@
 							<img src="assets/images/home-two/border-shape.png" alt="shape">
 						</div>
 						<div class="hero-video-icon">	
-							<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://www.youtube.com/watch?v=Wx48y_fOfiY"><i class="bi bi-play"></i></a>
+							<!-- <a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://www.youtube.com/watch?v=Wx48y_fOfiY"><i class="bi bi-play"></i></a> -->
+							<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="#"><i class="bi bi-bullseye"></i></a>
 						</div>
 					</div>
 				</div>
@@ -260,7 +261,7 @@
 							</div>
 							<div class="about-contact-content">
 								<h4>Contact Us</h4>
-								<p>12 345 6732 5894</p>
+								<p>+91 9512611125</p>
 							</div>
 						</div>
 				   </div>

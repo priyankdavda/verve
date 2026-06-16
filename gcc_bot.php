@@ -26,7 +26,7 @@
 						<h1>Build Your Global Capability Center in India</h1>
 						<h1 class="gcc_subtitle">Faster, Smarter, More Efficient</h1>
 						<p>Establish a fully compliant, high-performance technology center with our proven Build-Operate-Transfer (BOT) model.</p>
-						<div class="solutek-btn">
+						<!-- <div class="solutek-btn">
 							<a href="about-us.html">Start Your GCC Assessment
 								<div class="solutek-hover-btn hover-bx"></div>
 								<div class="solutek-hover-btn hover-bx2"></div>
@@ -41,7 +41,7 @@
 								<div class="solutek-hover-btn hover-bx3"></div>
 								<div class="solutek-hover-btn hover-bx4"></div>
 							</a>
-						</div>
+						</div> -->
 						<!-- <div class="hero-video-icon">	
 							<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://www.youtube.com/watch?v=Wx48y_fOfiY"><i class="bi bi-play"></i><span>WATCH VIDEO</span></a>
 						</div> -->
@@ -301,9 +301,9 @@
 								</ul>
 								<div class="col-lg-12">
 									
-									<div class="quote_button2">
+									<!-- <div class="quote_button2">
 										<button class="btn" type="submit">Download Legal & Compliance Handbook <i class="bi bi-arrow-right"></i></button>
-									</div>
+									</div> -->
 								</div>
 							</div>
 						</div>						

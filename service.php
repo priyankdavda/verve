@@ -78,7 +78,7 @@ include_once 'header.php';
 					<div class="service-thumb">
 						<img src="assets/images/inner/service-thumb1.png" alt="Global Talent & Workforce Solutions">
 					</div>
-					<div class="service-icon" style="position: relative; top: auto; left: auto; margin-top: -33px; margin-left: 31px; margin-bottom: -33px; z-index: 2;">
+					<div class="service-icon" style="position: relative; top: auto; left: auto; margin-top: -33px; margin-left: 31px; margin-bottom: -33px; z-index: 2;display:block;">
 						<img src="assets/images/inner/service-icon.png" alt="icon">
 					</div>
 					<div class="service-content">
@@ -100,7 +100,7 @@ include_once 'header.php';
 					<div class="service-thumb">
 						<img src="assets/images/inner/service-thumb2.png" alt="Technology & Digital Consulting">
 					</div>
-					<div class="service-icon" style="position: relative; top: auto; left: auto; margin-top: -33px; margin-left: 31px; margin-bottom: -33px; z-index: 2;">
+					<div class="service-icon" style="position: relative; top: auto; left: auto; margin-top: -33px; margin-left: 31px; margin-bottom: -33px; z-index: 2;display:block;">
 						<img src="assets/images/inner/service-icon.png" alt="icon">
 					</div>
 					<div class="service-content">
@@ -122,7 +122,7 @@ include_once 'header.php';
 					<div class="service-thumb">
 						<img src="assets/images/inner/service-thumb3.png" alt="Managed Services & Advisory">
 					</div>
-					<div class="service-icon" style="position: relative; top: auto; left: auto; margin-top: -33px; margin-left: 31px; margin-bottom: -33px; z-index: 2;">
+					<div class="service-icon" style="position: relative; top: auto; left: auto; margin-top: -33px; margin-left: 31px; margin-bottom: -33px; z-index: 2;display:block;">
 						<img src="assets/images/inner/service-icon.png" alt="icon">
 					</div>
 					<div class="service-content">
@@ -144,7 +144,7 @@ include_once 'header.php';
 					<div class="service-thumb">
 						<img src="assets/images/inner/service-thumb4.png" alt="Build-Operate-Transfer & GCC Setup">
 					</div>
-					<div class="service-icon" style="position: relative; top: auto; left: auto; margin-top: -33px; margin-left: 31px; margin-bottom: -33px; z-index: 2;">
+					<div class="service-icon" style="position: relative; top: auto; left: auto; margin-top: -33px; margin-left: 31px; margin-bottom: -33px; z-index: 2;display:block;">
 						<img src="assets/images/inner/service-icon.png" alt="icon">
 					</div>
 					<div class="service-content">

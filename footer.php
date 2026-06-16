@@ -25,7 +25,7 @@
 						<img src="assets/images/address2.png" alt="address1">
 					</div>
 					<div class="solutek-btn">
-						<a href="contact.html">+91 95126 11125
+						<a href="contact.php">+91 95126 11125
 							<div class="solutek-hover-btn hover-bx"></div>
 							<div class="solutek-hover-btn hover-bx2"></div>
 							<div class="solutek-hover-btn hover-bx3"></div>
@@ -59,12 +59,12 @@
 		<div class="row footer">
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="footer-widget">
-					<div class="footer-logo" style="height:200px; display:flex; align-items:center;">
+					<div class="footer-logo" >
 						<a href="index.php">
 							<img 
 								src="assets/images/LOGO VERVE011-01.png" 
 								alt="footer-logo"
-								style="height:150px; width:auto; object-fit:contain;"
+								style="height:85px; width:70%; object-fit:contain;"
 							>
 						</a>
 					</div>
@@ -103,8 +103,8 @@
 					<ul>
 						<li><a href="ta.php">Talent Alignment</a></li>
 						<li><a href="gcc_bot.php">GCC Setup</a></li>
-						<li><a href="technology.php">Digital Consultinga</li>
-						<li><a href="services.php">Managed Services</a></li>
+						<li><a href="technology.php">Digital Consulting</li>
+						<li><a href="service.php">Managed Services</a></li>
 					</ul>
 				</div>
 			</div>
@@ -115,7 +115,7 @@
 					</div>
 					<p class="newsletter-text"><b>India:</b> 
 						522, Vihav Trade Center, Nr. Waves Club, Bhayli, Vadodara - 391410</p>
-					<p class="newsletter-text"><b>hello@verveinfosystems.com</b></p>
+					<p class="newsletter-text"><b>info@verveinfos.com</b></p>
 					<!-- <div class="Subscribe-form2">
 						<form>
 							<div class="form-field2">

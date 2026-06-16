@@ -181,12 +181,12 @@
 						<!-- <h1>with IT Excellence</h1> -->
 						<p>AI-driven workforce & digital consulting partner delivering scalable outcomes.</p>
 						<div class="solutek-btn">
-							<a href="about-us.html" class="btn-2">Book Strategy Cal</a>
+							<a href="about-us.php" class="btn-2">Book Strategy Cal</a>
 						</div>
 						<div class="hero-btn-3">
 							<div class="hero-btn-profile">
 								<img src="assets/images/home-3/hero-pro.png" alt="img">
-								<a href="about-us.html"><span>Start</span> GCC Assessment</a>
+								<a href="about-us.php"><span>Start</span> GCC Assessment</a>
 							</div>
 						</div>
 						<div class="hero-left-shape">
@@ -240,7 +240,7 @@
 							<img src="assets/images/home-3/ser-icon.png" alt="icon">
 						</div>
 						<div class="service-box-content">
-							<h4 class="service-title"><a href="service-details.html">Talent Solutions</a></h4>
+							<h4 class="service-title"><a href="service-details.php">Talent Solutions</a></h4>
 							<p class="service-desc">Build high-performing teams with our AI-driven sourcing and vetting engine.</p>
 						</div>
 					</div>
@@ -256,7 +256,7 @@
 							<img src="assets/images/home-3/ser-icon2.png" alt="icon">
 						</div>
 						<div class="service-box-content">
-							<h4 class="service-title"><a href="service-details.html">Digital Consulting</a></h4>
+							<h4 class="service-title"><a href="service-details.php">Digital Consulting</a></h4>
 							<p class="service-desc">Accelerate digital transformation with expert technology guidance and execution.</p>
 						</div>
 						
@@ -273,7 +273,7 @@
 							<img src="assets/images/home-3/ser-icon3.png" alt="icon">
 						</div>
 						<div class="service-box-content">
-							<h4 class="service-title"><a href="service-details.html">Managed Services</a></h4>
+							<h4 class="service-title"><a href="service-details.php">Managed Services</a></h4>
 							<p class="service-desc">End-to-end management of your critical IT operations and infrastructure.</p>
 						</div>
 						
@@ -290,7 +290,7 @@
 							<img src="assets/images/home-3/ser-icon2.png" alt="icon">
 						</div>
 						<div class="service-box-content">
-							<h4 class="service-title"><a href="service-details.html">BOT & GCC Setup</a></h4>
+							<h4 class="service-title"><a href="service-details.php">BOT & GCC Setup</a></h4>
 							<p class="service-desc">Establish your own offshore capability center with our proven framework.</p>
 						</div>
 						
@@ -313,7 +313,7 @@
 <!-- start solutek about section -->
 <!--==================================================-->
 
-<div class="about-section">
+<!-- <div class="about-section">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-6 col-lg-6">
@@ -354,7 +354,7 @@
 						</ul>
 					</div>
 					<div class="solutek-btn">
-						<a href="about-us.html">EXPLORE MORE
+						<a href="about-us.php">EXPLORE MORE
 							<div class="solutek-hover-btn hover-bx"></div>
 							<div class="solutek-hover-btn hover-bx2"></div>
 							<div class="solutek-hover-btn hover-bx3"></div>
@@ -365,7 +365,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 <!--==================================================-->
 <!-- end solutek about section -->
@@ -378,9 +378,9 @@
 <!-- start solutek counter area -->
 <!--==================================================-->
 <div class="counter-area">
-	<div class="container">
+	<!-- <div class="container"> -->
+	<div class="">
 		<div class="row counter-item">
-			
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="counter-single-box">
 					<div class="counter-content">
@@ -390,7 +390,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-2 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="counter-single-box">
 					<div class="counter-content">
 						<h4 class="counter">90</h4>
@@ -409,7 +409,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-2 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="counter-single-box">
 					<div class="counter-content">
 						<h4 class="counter">30</h4>
@@ -419,7 +419,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-2 col-md-6 col-sm-6">
+			<!-- <div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="counter-single-box">
 					<div class="counter-content">
 						<h4 class="counter">24</h4>
@@ -428,11 +428,11 @@
 						<p>Global Support</p>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
-		<div class="counter-thumb">
+		<!-- <div class="counter-thumb">
 			<img src="assets/images/home-3/counter-thu.png" alt="thumb">
-		</div>
+		</div> -->
 	</div>
 </div>
 
@@ -506,7 +506,7 @@
 					</div>
 					<div class="feature-sinble-single-box">
 						<div class="feature-icon">
-							<img src="assets/images/feature5.png" alt="feature1">
+							<img src="assets/images/feature1.png" alt="feature1">
 						</div>
 						<div class="feature-content">
 							<h3 class="feature-title">Ethical Consulting</h3>
@@ -545,7 +545,7 @@
 							<img src="assets/images/home-3/ser-icon.png" alt="icon">
 						</div>
 						<div class="service-box-content">
-							<h4 class="service-title2"><a href="service-details.html">Global Talent Access</a></h4>
+							<h4 class="service-title2"><a href="service-details.php">Global Talent Access</a></h4>
 							<p class="service-desc">Unlock top-tier talent from a worldwide network, ensuring the perfect skill and cultural fit for your teams.</p>
 						</div>
 					</div>
@@ -559,7 +559,7 @@
 							<img src="assets/images/home-3/ser-icon2.png" alt="icon">
 						</div>
 						<div class="service-box-content">
-							<h4 class="service-title2"><a href="service-details.html">Scalable Growth</a></h4>
+							<h4 class="service-title2"><a href="service-details.php">Scalable Growth</a></h4>
 							<p class="service-desc">Flexible and agile workforce solutions that scale with your business needs, from individual experts to full teams.</p>
 						</div>
 						
@@ -574,7 +574,7 @@
 							<img src="assets/images/home-3/ser-icon3.png" alt="icon">
 						</div>
 						<div class="service-box-content">
-							<h4 class="service-title2"><a href="service-details.html">Operational Excellence</a></h4>
+							<h4 class="service-title2"><a href="service-details.php">Operational Excellence</a></h4>
 							<p class="service-desc">Mitigate risks with our robust compliance, governance, and quality assurance frameworks.</p>
 						</div>
 						
@@ -586,10 +586,10 @@
 				<div class="service-box">
 					<div class="single-service-box">
 						<div class="service-icon">
-							<img src="assets/images/home-3/ser-icon2.png" alt="icon">
+							<img src="assets/images/home-3/ser-icon.png" alt="icon">
 						</div>
 						<div class="service-box-content">
-							<h4 class="service-title2"><a href="service-details.html">Accelerated Impact</a></h4>
+							<h4 class="service-title2"><a href="service-details.php">Accelerated Impact</a></h4>
 							<p class="service-desc">Rapidly deploy talent and technology solutions to achieve your business objectives faster.</p>
 						</div>
 						
@@ -838,7 +838,7 @@
 		<div class="row align-items-center">
 			<div class="col-lg-12">
 				<div class="section-title text-center">
-					<h5 class="section-sub-title">SOLUTEK COMPANY</h5>
+					<h5 class="section-sub-title">Verve Info System</h5>
 					<h1 class="section-main-title">Specialized  <span>Workforce </span> Solutions </h1>
 					<p class="section-title-descr2">A structured suite of services designed for every stage of your talent journey.</p>
 
@@ -853,7 +853,7 @@
 						<h3 class="service-title">Talent Alignment</h3>
 						<p class="service-text">Hiring is not about collecting profiles — it is about understanding the story behind every opportunity. We blend technology, market intelligence, and deep human insight to help organizations find talent that stays, grows, and contributes.</p>
 						<div class="service-btn">
-							<a href="service.html"><i class="fas fa-plus"></i> READ MORE</a>
+							<a href="service.php"><i class="fas fa-plus"></i> READ MORE</a>
 						</div>
 					</div>
 				</div>
@@ -867,7 +867,7 @@
 						<h3 class="service-title">Adaptive Workforce</h3>
 						<p class="service-text">Modern organizations need workforce agility — the ability to scale up or down without losing momentum. We provide skilled professionals exactly when and where you need them.</p>
 						<div class="service-btn">
-							<a href="service.html"><i class="fas fa-plus"></i> READ MORE</a>
+							<a href="service.php"><i class="fas fa-plus"></i> READ MORE</a>
 						</div>
 					</div>
 				</div>
@@ -881,7 +881,7 @@
 						<h3 class="service-title">Hiring Systems</h3>
 						<p class="service-text">Most companies don't struggle with talent — they struggle with process. We strengthen your hiring foundation from the inside.</p>
 						<div class="service-btn">
-							<a href="service.html"><i class="fas fa-plus"></i> READ MORE</a>
+							<a href="service.php"><i class="fas fa-plus"></i> READ MORE</a>
 						</div>
 					</div>
 				</div>
@@ -895,7 +895,7 @@
 						<h3 class="service-title">Client Success</h3>
 						<p class="service-text">Companies lose clients not due to performance but due to misalignment and unmanaged expectations. We bring structure, empathy, and intelligence to your client interactions.</p>
 						<div class="service-btn">
-							<a href="service.html"><i class="fas fa-plus"></i> READ MORE</a>
+							<a href="service.php"><i class="fas fa-plus"></i> READ MORE</a>
 						</div>
 					</div>
 				</div>
@@ -909,7 +909,7 @@
 						<h3 class="service-title">Lifecycle Ops</h3>
 						<p class="service-text">Employee experiences matter — whether they are joining or leaving. We ensure that every transition is smooth, compliant, and respectful.</p>
 						<div class="service-btn">
-							<a href="service.html"><i class="fas fa-plus"></i> READ MORE</a>
+							<a href="service.php"><i class="fas fa-plus"></i> READ MORE</a>
 						</div>
 					</div>
 				</div>
@@ -917,13 +917,13 @@
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="service-single-box">
 					<div class="service-icon">
-						<img src="assets/images/service4.png" alt="service1">
+						<img src="assets/images/service1.png" alt="service1">
 					</div>
 					<div class="service-content">
 						<h3 class="service-title">Global Expansion</h3>
 						<p class="service-text">International businesses trust India for talent — but scaling globally demands structure, cultural understanding, and reliable partnership.</p>
 						<div class="service-btn">
-							<a href="service.html"><i class="fas fa-plus"></i> READ MORE</a>
+							<a href="service.php"><i class="fas fa-plus"></i> READ MORE</a>
 						</div>
 					</div>
 				</div>

@@ -26,7 +26,7 @@
 					<br>
 					<h6>Expert perspectives on the future of work, technology, and global business operations.</h6>
 					<ul class="breadcumb-list">
-						<li><a href="index.html">Home</a></li>
+						<li><a href="/">Home</a></li>
 						<li class="list-arrow">&lt;</li>
 						<li>Blog Grid</li>
 					</ul>
@@ -67,10 +67,10 @@
 							</div>
 						</div>
 					   <div class="meta-blog">
-						  <a href="blog-details.html"><span><i class="far fa-user"></i>Sarah Jenkins</span></a>
+						  <a href="#"><span><i class="far fa-user"></i>Sarah Jenkins</span></a>
 						  <p><span><img src="assets/images/inner/grid-calen.png" alt="icon"></span>October 15, 2024</p>
 						</div>
-						<h3><a href="blog-details.html">The Rise of GCCs in India: 2024 Market Outlook</a></h3>
+						<h3><a href="#">The Rise of GCCs in India: 2024 Market Outlook</a></h3>
 						<p>Why Global Capability Centers are shifting from cost-centers to innovation hubs, and what this means for US enterprises.</p>
 
 						<!-- <div class="blog-button">
@@ -94,10 +94,10 @@
 							</div>
 						</div>
 					   <div class="meta-blog">
-						  <a href="blog-details.html"><span><i class="far fa-user"></i>David Chen</span></a>
+						  <a href="#"><span><i class="far fa-user"></i>David Chen</span></a>
 						  <p><span><img src="assets/images/inner/grid-calen.png" alt="icon"></span>October 02, 2024</p>
 						</div>
-						<h3><a href="blog-details.html">AI in Recruitment: Eliminating Bias & Boosting Speed</a></h3>
+						<h3><a href="#">AI in Recruitment: Eliminating Bias & Boosting Speed</a></h3>
 						<p>How artificial intelligence is reshaping the talent acquisition landscape by predicting candidate success better than humans.</p>
 						<!-- <div class="blog-button">
 							<a href="blog-grid.html">REAM MORE<i class="bi bi-arrow-right"></i></a>
@@ -120,10 +120,10 @@
 							</div>
 						</div>
 					   <div class="meta-blog">
-						  <a href="blog-details.html"><span><i class="far fa-user"></i>Michael Ross</span></a>
+						  <a href="#"><span><i class="far fa-user"></i>Michael Ross</span></a>
 						  <p><span><img src="assets/images/inner/grid-calen.png" alt="icon"></span>September 28, 2024</p>
 						</div>
-						<h3><a href="blog-details.html">Build-Operate-Transfer: A Risk-Free Model for Expansion</a></h3>
+						<h3><a href="#">Build-Operate-Transfer: A Risk-Free Model for Expansion</a></h3>
 						<p>A deep dive into the BOT model mechanics and why it's the preferred route for companies entering the Indian market.</p>
 
 						<!-- <div class="blog-button">
@@ -147,10 +147,10 @@
 							</div>
 						</div>
 					   <div class="meta-blog">
-						  <a href="blog-details.html"><span><i class="far fa-user"></i>Priya Sharma</span></a>
+						  <a href="#"><span><i class="far fa-user"></i>Priya Sharma</span></a>
 						  <p><span><img src="assets/images/inner/grid-calen.png" alt="icon"></span>September 15, 2024</p>
 						</div>
-						<h3><a href="blog-details.html">Managing Distributed Agile Teams Effectively</a></h3>
+						<h3><a href="#">Managing Distributed Agile Teams Effectively</a></h3>
 						<p>Best practices for maintaining high velocity and culture in remote, cross-border engineering squads.</p>
 
 						<!-- <div class="blog-button">
@@ -174,10 +174,10 @@
 							</div>
 						</div>
 					   <div class="meta-blog">
-						  <a href="blog-details.html"><span><i class="far fa-user"></i>James Wilson</span></a>
+						  <a href="#"><span><i class="far fa-user"></i>James Wilson</span></a>
 						  <p><span><img src="assets/images/inner/grid-calen.png" alt="icon"></span>September 10, 2024</p>
 						</div>
-						<h3><a href="blog-details.html">Cloud Migration Strategies for Legacy Enterprises</a></h3>
+						<h3><a href="#">Cloud Migration Strategies for Legacy Enterprises</a></h3>
 						<p>The top 5 challenges traditional banks face when moving to the cloud, and how to overcome them.</p>
 						<!-- <div class="blog-button">
 							<a href="blog-grid.html">REAM MORE<i class="bi bi-arrow-right"></i></a>
@@ -200,10 +200,10 @@
 							</div>
 						</div>
 					   <div class="meta-blog">
-						  <a href="blog-details.html"><span><i class="far fa-user"></i>Sarah Jenkins</span></a>
+						  <a href="#"><span><i class="far fa-user"></i>Sarah Jenkins</span></a>
 						  <p><span><img src="assets/images/inner/grid-calen.png" alt="icon"></span>August 30, 2024</p>
 						</div>
-						<h3><a href="blog-details.html">The Future of Staff Augmentation</a></h3>
+						<h3><a href="#">The Future of Staff Augmentation</a></h3>
 						<p>Moving beyond 'bodies in seats' to strategic skill injection. The evolution of the contractor model.</p>
 						<!-- <div class="blog-button">
 							<a href="blog-grid.html">REAM MORE<i class="bi bi-arrow-right"></i></a>

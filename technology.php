@@ -1,4 +1,3 @@
-x	
 <?php include 'header.php'; ?>
 <!--==================================================-->
 <!-- Start Curser Section Here -->
@@ -8,7 +7,138 @@ x
 <!--==================================================-->
 <!-- Ends Curser Section Here -->
 <!--==================================================-->
+<style>
+	/* ===============================
+   CASE STUDY / TECH GRID FIXES
+================================ */
 
+/* Section spacing control */
+.case-study-area {
+    padding: 60px 0;
+}
+
+/* Filter menu alignment */
+.case_study_menu {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.case_study_menu ul {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.case_study_menu ul li {
+    padding: 10px 18px;
+    border-radius: 30px;
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+/* Active menu */
+.case_study_menu ul li.current_menu_item {
+    background: #ff4a17;
+    color: #fff;
+}
+
+/* Grid row fix */
+.image_load {
+    row-gap: 30px;
+}
+
+/* Card box */
+.tech-card-box {
+    height: 100%;
+    background: #fff;
+    border-radius: 14px;
+    padding: 28px 20px;
+    text-align: center;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.05);
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.tech-card-box:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 35px rgba(0,0,0,0.08);
+}
+
+/* Icon alignment */
+.tech-icon {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 14px;
+}
+
+.tech-icon img {
+    max-height: 55px;
+    max-width: 80px;
+    object-fit: contain;
+}
+
+/* Title */
+.feature-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #222;
+    margin: 0;
+}
+
+/* ===============================
+   RESPONSIVE FIXES
+================================ */
+
+/* Tablet */
+@media (max-width: 991px) {
+    .tech-card-box {
+        padding: 24px 16px;
+    }
+
+    .feature-title {
+        font-size: 15px;
+    }
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+
+    /* horizontal scroll filter menu */
+    .case_study_menu ul {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        padding-bottom: 10px;
+        justify-content: flex-start;
+    }
+
+    .case_study_menu ul::-webkit-scrollbar {
+        height: 4px;
+    }
+
+    .case_study_menu ul::-webkit-scrollbar-thumb {
+        background: #ddd;
+        border-radius: 10px;
+    }
+
+    .tech-icon {
+        height: 60px;
+    }
+
+    .tech-icon img {
+        max-height: 45px;
+    }
+
+    .feature-title {
+        font-size: 14px;
+    }
+}
+</style>
 
 <!--==================================================-->
 	<!-- Start solutek case-study-area -->
@@ -32,7 +162,7 @@ x
 					</div>
 				</div>
 			</div>
-			<div class="row image_load justify-content-center">
+			<div class="row image_load">
 				<?php
 				$sections = [
 					'ESD' => [

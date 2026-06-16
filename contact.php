@@ -1,3 +1,13 @@
+<?php
+session_start();
+
+if (isset($_SESSION['contact_success'])) {
+    echo "<script>
+        alert('Thank you! Your message has been sent successfully.');
+    </script>";
+    unset($_SESSION['contact_success']);
+}
+?>
 <?php include 'header.php'; ?>
 <!--==================================================-->
 <!-- Start Curser Section Here -->
@@ -86,7 +96,7 @@
 					<h1 class="section-main-title">For Business Planing.</h1>
 				</div>
 					<div class="contact_from_box">
-						<form action="https://formspree.io/f/myyleorq" method="POST" id="dreamit-form">
+						<form action="contact_submit.php" method="POST" id="dreamit-form">
 							<div class="row">
 								<div class="col-lg-6">
 									<div class="form_box">
@@ -125,7 +135,7 @@
 										<textarea name="message" id="message" cols="30" rows="10" placeholder="Message"></textarea>
 									</div>
 									<div class="quote_button">
-										<button class="btn" type="submit">SUBMIT <i class="bi bi-arrow-right"></i></button>
+										<button class="btn" type="submit">SUBMIT </button>
 									</div>
 								</div>
 							</div>
@@ -153,12 +163,12 @@
 
 						<div class="widget-sidber">
 							<div class="widget-sidber-content">
-								<h4>Direct Contacts</h4>
+								<h4>Direct Contact</h4>
 							</div>
 							<div class="sidber-widget-recent-post">
 								<div class="recent-widget-content">
 									<a href="#">Inquiries</a>	
-									<p class="address"> hello@verveinfosystems.com</p>		
+									<p class="address">info@verveinfos.com</p>		
 								</div>
 							</div>							
 							<div class="sidber-widget-recent-post">

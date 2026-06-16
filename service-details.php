@@ -106,7 +106,7 @@ include_once 'header.php';
 <!--==================================================-->
 <!-- Start solutek breadcumb Area -->
 <!--==================================================-->
-<div class="breadcumb-area">
+<div class="breadcumb-area3">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -196,7 +196,7 @@ include_once 'header.php';
 								<img src="assets/images/inner-images/sidber-cont-icon.png" alt="">
 							</div>
 							<p class="widget-sidber-contact-text">Call Us Anytime</p>
-							<h3 class="widget-sidber-contact-number">+123 (4567) 890</h3>
+							<h3 class="widget-sidber-contact-number">+91 9512611125</h3>
 							<span class="widget-sidber-contact-gmail"><i class="bi bi-envelope-fill"></i>info@verveinfos.com</span>
 							<div class="widget-sidber-contact-btn">
 								<a href="contact.php">Contact Us <i class="bi bi-arrow-right"></i></a>

@@ -4843,6 +4843,7 @@ ul.list-style-one li a:hover {
   border-radius: 50%;
   background-color: #ff3c00;
   text-align: center;
+  display: inline-table;
 }
 
 .our-service-section h4.service-title {
@@ -4962,7 +4963,7 @@ ul.list-style-one li a:hover {
   background-position: center center;
   background-size: cover;
   padding: 63px 0 60px;
-  border-radius: 50px 0 0 50px;
+  /* border-radius: 50px 0 0 50px; */
 }
 
 .counter-area .counter-single-box {
@@ -5358,7 +5359,8 @@ ul.list-style-one li a:hover {
 
 .breadcumb-area2 {
   background: url(assets/images/inner/breadcumb-bg.png);
-  padding: 150px 0 170px;
+  /* padding: 150px 0 170px; */
+  padding: 80px 0 170px;
   background-repeat: no-repeat;
   background-size: contain;
   position: relative;
@@ -5367,7 +5369,8 @@ ul.list-style-one li a:hover {
 
 .breadcumb-area3 {
   background: url(assets/images/inner/breadcumb-bg.png);
-  padding: 230px 0 170px;
+  /* padding: 230px 0 170px; */
+  padding: 175px 0 170px;
   background-repeat: no-repeat;
   background-size: contain;
   position: relative;
@@ -5375,7 +5378,8 @@ ul.list-style-one li a:hover {
 }
 
 .breadcumb-area3.about {
-  padding: 230px 0 180px;
+  /* padding: 230px 0 180px; */
+  padding: 115px 0 180px;
 }
 
 .breadcumb-area.about {
@@ -5677,6 +5681,8 @@ li.list-arrow {
   margin: 0;
   transition: 0.5s;
   cursor: pointer;
+  line-height:1.5;
+  margin-top:10px;
 }
 
 .sservice-area.style-two h2.service-subtitle {
@@ -7371,7 +7377,7 @@ p.blog-details-desc.three {
 
 
 /*---start-curser---*/
-.curser {
+/* .curser {
   position: fixed;
   top: 0;
   left: 0;
@@ -7383,9 +7389,9 @@ p.blog-details-desc.three {
   transform: translate(-50%, -50%);
   z-index: 9999;
   transition: 0.1s;
-}
+} */
 
-.curser2 {
+/* .curser2 {
   position: fixed;
   top: 0;
   left: 0;
@@ -7400,7 +7406,7 @@ p.blog-details-desc.three {
   animation: Ripple 1.6s ease-in-out infinite;
   -webkit-animation: Ripple 1.6s ease-in-out infinite;
   -moz-animation: Ripple 1.6s ease-in-out infinite;
-}
+} */
 
 /*
 <!-- ============================================================== -->
@@ -8548,4 +8554,7 @@ p.blog-details-desc.three {
   .tech-card-box .feature-title {
     font-size: 13px !important;
   }
+}
+.breadcumb-list .list-arrow{
+rotate: 180deg;
 }

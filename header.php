@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>solutek-HTML5-Themeforest</title>
+	<title>Verve Info System</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
@@ -67,7 +67,8 @@
     
     /* Optimized Logo Settings */
     .logo_class { 
-        max-height: 100px;  /* Optimal height: Large but fits */
+        /* max-height: 100px;  Optimal height: Large but fits */
+        max-height: 50px;  /* Optimal height: Large but fits */
         width: auto;       
         max-width: 100%;   
     }
